@@ -1,11 +1,11 @@
 {
-    "name": "Dark Wing Racing",
-    "short_name": "DWR",
+    "name": "dwr",
+    "short_name": "dwr",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#020617",
     "theme_color": "#020617",
-    "description": "Dark Wing Racing web application.",
+    "description": "A new Flutter project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
@@ -23,13 +23,13 @@
             "src": "icons/Icon-maskable-192.png",
             "sizes": "192x192",
             "type": "image/png",
-            "purpose": "any maskable"
+            "purpose": "maskable"
         },
         {
             "src": "icons/Icon-maskable-512.png",
             "sizes": "512x512",
             "type": "image/png",
-            "purpose": "any maskable"
+            "purpose": "maskable"
         }
     ]
 }
