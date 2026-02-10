@@ -5,7 +5,7 @@
     "display": "standalone",
     "background_color": "#020617",
     "theme_color": "#020617",
-    "description": "Dark Wing Racing Flutter project.",
+    "description": "Dark Wing Racing web application.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
