@@ -54558,7 +54558,7 @@ m=m==null?q:m.b
 if(m==null)m="Driver"
 s=p.ok.z
 r=t.p
-return A.hD(A.aK(A.b([A.o0(10,10,A.aK(A.b([n,B.ZP,A.n6(B.FD,A.b([A.aK(A.b([A.an("Welcome back, "+m+"!",q,q,A.cD(q,q,s==null?q:s.b,q,q,q,q,q,q,q,q,14,q,q,B.jk,q,q,!0,q,2,q,q,q,q,q,q),q)],r),B.w,q,B.j,B.m),B.X8],r),B.fN,B.a4,B.ak,16,16,q)],r),B.l,q,B.j,B.m),o,q,16,q),B.ZQ,A.aF(A.b([B.Xn,A.qZ(B.a4t,!0,q,q,this.c,B.Yu,q,q)],r),B.l,B.aw,B.m,0,q),B.aI,B.LJ],r),B.w,q,B.j,B.m),q,B.A,B.c4,q,B.E)}}
+return A.hD(A.aK(A.b([A.o0(10,10,A.aK(A.b([n,B.ZP,A.n6(B.FD,A.b([A.aK(A.b([A.an("Welcome back, "+m+"!",q,q,A.cD(q,q,s==null?q:s.b,q,q,q,q,q,q,q,q,14,q,q,B.jk,q,q,!0,q,2,q,q,q,q,q,q),q)],r),B.w,q,B.j,B.m),B.X8],r),B.fN,B.a4,B.ak,16,16,q)],r),B.l,q,B.j,B.m),o,q,16,q),B.ZQ,A.aF(A.b([B.Xn,A.qZ(B.a4u,!0,q,q,this.c,B.Yu,q,q)],r),B.l,B.aw,B.m,0,q),B.aI,B.LJ],r),B.w,q,B.j,B.m),q,B.A,B.c4,q,B.E)}}
 A.Rw.prototype={
 G(a){var s=A.Sh()
 return A.Ag(new A.adD(),$.mi,s,t.yI)}}
@@ -54625,7 +54625,7 @@ o=A.b5V(A.PF(A.jm(q.as[o],p,p,p,B.il,!1,1/0,new A.dl(o,t.f3),1/0),B.eU))
 s=A.b3(B.h.X(0.2),p,p,p,p)
 r=t.p
 return A.qR(p,p,A.iS(B.bK,A.b([o,A.dH(A.aZW(B.o.X(0.75),s,A.hD(A.aK(A.b([A.jm("assets/images/DWR_Primary_Logo.png",p,p,p,B.aV,!1,80,p,p),B.EF,q.adF(),B.oC,q.adq()],r),B.l,p,B.j,B.t),p,B.A,p,p,B.E),p,B.aL,p,320),p,p)],r),B.J,B.bH,p),p,!1,p)},
-adF(){var s,r=this,q=null,p=A.i9(r.d,q,q,B.Vn,!1,q,q,B.a4Z,!1,q,B.kE,q,new A.aM1()),o=r.y,n=r.w,m=n?B.oL:B.kE
+adF(){var s,r=this,q=null,p=A.i9(r.d,q,q,B.Vn,!1,q,q,B.a5_,!1,q,B.kE,q,new A.aM1()),o=r.y,n=r.w,m=n?B.oL:B.kE
 n=n?new A.aM2(r):q
 s=t.p
 m=A.b([p,B.aI,A.i9(r.e,q,q,B.Vy,!o,q,n,B.a5q,!1,q,m,A.ax8(q,B.o9,30,q,new A.aM3(r),B.B,A.cK(o?B.yt:B.yA,q,q,16),30),new A.aM4())],s)
@@ -54637,7 +54637,7 @@ s=r.w
 p=A.ax8(A.an(s?"Login":"Register",q,q,q,q),q,q,p,o,q,q,1/0)
 o=t.p
 p=A.b([p,B.aN,A.lr(A.an(s?"Don't have an account? Register":"Already have an account? Login",q,q,q,q),q,q,new A.aLZ(r),q,q,1/0)],o)
-if(r.w)B.b.P(p,A.b([B.b9,A.lr(B.a4q,q,q,new A.aM_(r),q,q,1/0)],o))
+if(r.w)B.b.P(p,A.b([B.b9,A.lr(B.a4r,q,q,new A.aM_(r),q,q,1/0)],o))
 return A.aK(p,B.l,q,B.j,B.m)},
 ic(){var s=0,r=A.v(t.H),q,p=2,o=[],n=[],m=this,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2,a3,a4,a5
 var $async$ic=A.q(function(a6,a7){if(a6===1){o.push(a7)
@@ -54913,14 +54913,14 @@ Xj(a,b){return this.t2(a,b,!1)},
 G(a){var s=this,r=null,q=A.b5V(A.jm("assets/images/backgroundrp.jpg",r,B.o.X(0.5),B.pC,B.il,!1,r,r,r)),p=B.o.X(0.8),o=A.b3(B.h.X(0.2),r,r,r,r),n=A.jm("assets/images/DWR_Primary_Logo.png",r,r,r,B.aV,!1,60,r,r),m=t.p
 return A.qR(r,B.o,A.iS(B.bK,A.b([q,A.dH(A.hD(A.aZW(p,o,A.aK(A.b([n,B.by,A.Ib(A.PF(s.d===B.nQ?s.adP():s.adQ(),B.ah),s.e)],m),B.l,r,B.j,B.t),r,B.aL,r,450),r,B.A,B.aF,r,B.E),r,r)],m),B.J,B.bH,r),r,!1,r)},
 adP(){var s=this,r=null,q=A.i9(s.f,r,B.oM,B.zi,!1,r,r,B.a5E,!1,r,r,r,new A.aP2()),p=s.x,o=p?r:s.gapp()
-return A.aK(A.b([B.a59,B.b9,B.a43,B.by,q,B.by,A.ax8(B.a4D,r,r,p?B.kw:r,o,r,r,r),B.aN,A.lr(B.a3Y,r,r,new A.aP3(s),r,r,r)],t.p),B.bC,B.a7d,B.j,B.m)},
+return A.aK(A.b([B.a5a,B.b9,B.a44,B.by,q,B.by,A.ax8(B.a4E,r,r,p?B.kw:r,o,r,r,r),B.aN,A.lr(B.a3Y,r,r,new A.aP3(s),r,r,r)],t.p),B.bC,B.a7d,B.j,B.m)},
 adQ(){var s,r,q,p=this,o=null,n=p.f,m=A.an("Token sent to "+n.a.a,o,o,B.ez,B.an)
 n=A.vS(o,!0,B.c9,!1,o,B.J,o,o,o,n,o,o,o,o,o,o,o,B.A,o,!0,o,!0,!1,!1,o,o,o,o,o,o,o,o,o,B.Vs,B.dL,o,o,o,1,o,o,!1,"\u2022",o,o,o,o,o,!1,o,o,o,o,o,o,!1,o,!0,o,B.c4,o,o,o,B.c0,B.bp,o,o,o,o,o,o,B.aC,B.dh,o,o,o,o,o)
 s=p.y
-s=A.i9(p.w,o,o,B.Vw,!s,o,o,B.a55,!1,o,o,A.lr(o,32,o,new A.aP6(p),B.B,A.cK(s?B.yt:B.yA,B.D,o,16),32),new A.aP7())
+s=A.i9(p.w,o,o,B.Vw,!s,o,o,B.a56,!1,o,o,A.lr(o,32,o,new A.aP6(p),B.B,A.cK(s?B.yt:B.yA,B.D,o,16),32),new A.aP7())
 r=p.x
 q=r?o:p.gapr()
-return A.aK(A.b([B.a4w,B.b9,m,B.by,new A.Ih(8,B.QN,new A.aP8(p),o),B.by,n,B.aN,s,B.by,A.ax8(B.a4y,o,o,r?B.kw:o,q,o,o,1/0),B.aN,A.lr(B.a5m,o,o,new A.aP9(p),o,o,1/0)],t.p),B.l,B.a7e,B.j,B.m)}}
+return A.aK(A.b([B.a4x,B.b9,m,B.by,new A.Ih(8,B.QN,new A.aP8(p),o),B.by,n,B.aN,s,B.by,A.ax8(B.a4z,o,o,r?B.kw:o,q,o,o,1/0),B.aN,A.lr(B.a5m,o,o,new A.aP9(p),o,o,1/0)],t.p),B.l,B.a7e,B.j,B.m)}}
 A.aPa.prototype={
 $0(){return this.a.x=!0},
 $S:0}
@@ -55000,7 +55000,7 @@ r=j.f
 q=$.zH
 p=A.U(q).h("X<1,ey<dU>>")
 q=A.R(new A.X(q,new A.aGR(),p),p.h("aa.E"))
-r=A.bj(j.nr("Event Series",A.b5H(r,new A.aGS(j),q,B.a4r,new A.aGZ(),new A.aH_(),t.eV)),1,i)
+r=A.bj(j.nr("Event Series",A.b5H(r,new A.aGS(j),q,B.a4s,new A.aGZ(),new A.aH_(),t.eV)),1,i)
 q=j.r
 p=A.U(f).h("X<1,ey<h>>")
 p=A.R(new A.X(f,new A.aH0(),p),p.h("aa.E"))
@@ -55011,7 +55011,7 @@ r=q==null?i:B.b.bh(q.r,", ")
 r=A.bj(j.nr("Car Classes",A.vS(i,!0,B.c9,!1,i,B.J,i,i,i,i,i,i,i,i,i,i,i,B.A,i,!0,i,!0,!0,!1,i,i,i,i,i,i,i,i,i,i,B.dL,i,i,i,1,i,i,!1,"\u2022",i,i,i,i,i,!1,i,i,i,A.an(r==null?"Select Series First":r,i,i,i,i),i,i,!0,i,!0,i,B.c4,i,i,i,B.c0,B.bp,i,i,i,i,i,i,B.aC,B.dh,i,i,i,i,i)),1,i)
 q=j.ch
 n=A.an(q?"Enter Laps":"Enter Minutes",i,i,i,i)
-r=A.aF(A.b([r,B.bY,A.bj(j.nr("Race Length",A.aF(A.b([A.bj(A.i9(j.e,i,B.ex,i,!1,new A.aH5(j),i,n,!1,i,i,new A.aq(B.mj,A.an(q?"Laps":"Mins",i,i,B.i4,i),i),new A.aGT()),1,i),B.et,new A.aq(B.dt,A.zN(i,B.a40,new A.aGU(j),i,q),i)],o),B.w,B.j,B.m,0,i)),1,i)],o),B.w,B.j,B.m,0,i)
+r=A.aF(A.b([r,B.bY,A.bj(j.nr("Race Length",A.aF(A.b([A.bj(A.i9(j.e,i,B.ex,i,!1,new A.aH5(j),i,n,!1,i,i,new A.aq(B.mj,A.an(q?"Laps":"Mins",i,i,B.i4,i),i),new A.aGT()),1,i),B.et,new A.aq(B.dt,A.zN(i,B.a41,new A.aGU(j),i,q),i)],o),B.w,B.j,B.m,0,i)),1,i)],o),B.w,B.j,B.m,0,i)
 q=A.aF(A.b([A.bj(j.nr("Event Date Start & End",A.bkc(!0,s,new A.aGV(j),new A.aGW())),1,i),B.bY,A.bj(j.nr("Registration Close Date",A.b5A(!0,j.z,new A.aGX(j))),1,i)],o),B.w,B.j,B.m,0,i)
 n=j.adS()
 m=A.cY(3,3,i,i,B.eA,B.h,!0,i,i,new A.aGY(a),i)
@@ -55020,14 +55020,14 @@ k=l?i:j.gafA()
 if(l)l=B.kv
 else l=A.an(j.a.c==null?"Create Event":"Update Event",i,i,B.bi,i)
 return A.i7(B.cm,i,A.aZ(i,A.hD(A.Ib(A.aK(A.b([g,B.by,p,B.aI,r,B.aI,q,B.Vr,n,B.kx,new A.eA(B.cR,i,i,A.aF(A.b([m,B.b1,A.cY(3,3,i,i,l,B.h,!0,i,i,k,i)],o),B.l,B.j,B.t,0,i),i)],o),B.w,i,B.j,B.t),j.d),i,B.A,i,i,B.E),B.X,i,i,j.dx,i,i,i,B.aL,i,i,i),B.pH,i,B.B,h,i)},
-adS(){var s,r,q=this,p=null,o=t.p,n=A.aF(A.b([B.a3W,B.ZM,A.zN(B.aR,B.a47,new A.aGv(q),B.MO,q.cx)],o),B.l,B.j,B.m,0,p),m=A.bj(q.nr("Date",A.b5A(!0,p,new A.aGw(q))),2,p),l=A.bj(q.nr("Time",A.bkl(new A.dl("time-"+q.cy,t.kK),new A.aGx(q),!1)),2,p)
-n=A.b([n,B.aA,A.aF(A.b([m,B.et,l,B.et,A.qZ(B.a54,!0,p,p,q.at==null||q.ax==null||q.ay==null?new A.aGy(q):q.gacL(),p,p,p)],o),B.ds,B.j,B.m,0,p)],o)
+adS(){var s,r,q=this,p=null,o=t.p,n=A.aF(A.b([B.a3W,B.ZM,A.zN(B.aR,B.a48,new A.aGv(q),B.MO,q.cx)],o),B.l,B.j,B.m,0,p),m=A.bj(q.nr("Date",A.b5A(!0,p,new A.aGw(q))),2,p),l=A.bj(q.nr("Time",A.bkl(new A.dl("time-"+q.cy,t.kK),new A.aGx(q),!1)),2,p)
+n=A.b([n,B.aA,A.aF(A.b([m,B.et,l,B.et,A.qZ(B.a55,!0,p,p,q.at==null||q.ax==null||q.ay==null?new A.aGy(q):q.gacL(),p,p,p)],o),B.ds,B.j,B.m,0,p)],o)
 m=q.Q
 if(m.length!==0){l=A.cu(B.bO,1)
 s=A.b9(6)
 r=B.h.X(0.02)
 m=new A.ob(m,A.U(m).h("ob<1>"))
-B.b.P(n,A.b([B.aI,B.a41,B.b9,A.aZ(p,A.hD(A.n6(B.ak,m.ghN(m).d2(0,new A.aGz(q),t.l7).dH(0),B.cf,B.a4,B.ak,8,8,p),p,B.A,p,p,B.E),B.p,p,B.GT,new A.ba(r,p,l,s,p,p,p,B.y),p,p,p,B.cl,p,p,1/0)],o))}else B.b.P(n,A.b([B.VA],o))
+B.b.P(n,A.b([B.aI,B.a42,B.b9,A.aZ(p,A.hD(A.n6(B.ak,m.ghN(m).d2(0,new A.aGz(q),t.l7).dH(0),B.cf,B.a4,B.ak,8,8,p),p,B.A,p,p,B.E),B.p,p,B.GT,new A.ba(r,p,l,s,p,p,p,B.y),p,p,p,B.cl,p,p,1/0)],o))}else B.b.P(n,A.b([B.VA],o))
 return A.aK(n,B.w,p,B.j,B.m)},
 adV(a,b){var s,r=null,q=b===this.as,p=q?A.bn(51,B.ca.N()>>>16&255,B.ca.N()>>>8&255,B.ca.N()&255):B.q,o=t.p,n=A.b([],o)
 if(q)B.b.P(n,A.b([B.NQ,B.cM],o))
@@ -55325,15 +55325,15 @@ r=s.x
 r.S$=q
 r.L$=0
 s.an()},
-G(a){var s,r,q=this,p=null,o=A.b9(16),n=t.p,m=A.aF(A.b([B.a4d],n),B.l,B.aw,B.m,0,p),l=A.aF(A.b([A.bj(q.rz("Title",A.i9(q.e,p,p,p,!1,p,p,B.a5C,!1,p,p,p,new A.aHf())),1,p),B.bY,A.bj(q.rz("Description",A.i9(q.f,p,p,p,!1,p,p,B.a5w,!1,p,p,p,new A.aHg())),1,p)],n),B.w,B.j,B.m,0,p),k=q.y,j=q.as,i=A.U(j).h("X<1,ey<h>>")
+G(a){var s,r,q=this,p=null,o=A.b9(16),n=t.p,m=A.aF(A.b([B.a4e],n),B.l,B.aw,B.m,0,p),l=A.aF(A.b([A.bj(q.rz("Title",A.i9(q.e,p,p,p,!1,p,p,B.a5C,!1,p,p,p,new A.aHf())),1,p),B.bY,A.bj(q.rz("Description",A.i9(q.f,p,p,p,!1,p,p,B.a5w,!1,p,p,p,new A.aHg())),1,p)],n),B.w,B.j,B.m,0,p),k=q.y,j=q.as,i=A.U(j).h("X<1,ey<h>>")
 j=A.R(new A.X(j,new A.aHh(),i),i.h("aa.E"))
-k=A.aF(A.b([A.bj(q.rz("Classification",A.b5H(k,new A.aHi(q),j,B.a4K,new A.aHj(),new A.aHk(),t.N)),1,p),B.bY,A.bj(q.rz("Car Classes",q.adM()),1,p)],n),B.w,B.j,B.m,0,p)
-j=A.aF(A.b([A.bj(q.rz("Min Drivers",A.i9(q.r,p,B.ex,p,!1,p,p,B.a5b,!1,p,p,p,new A.aHl())),1,p),B.bY,A.bj(q.rz("Max Drivers",A.i9(q.w,p,B.ex,p,!1,p,p,B.a5c,!1,p,p,p,new A.aHm())),1,p)],n),B.w,B.j,B.m,0,p)
+k=A.aF(A.b([A.bj(q.rz("Classification",A.b5H(k,new A.aHi(q),j,B.a4L,new A.aHj(),new A.aHk(),t.N)),1,p),B.bY,A.bj(q.rz("Car Classes",q.adM()),1,p)],n),B.w,B.j,B.m,0,p)
+j=A.aF(A.b([A.bj(q.rz("Min Drivers",A.i9(q.r,p,B.ex,p,!1,p,p,B.a5c,!1,p,p,p,new A.aHl())),1,p),B.bY,A.bj(q.rz("Max Drivers",A.i9(q.w,p,B.ex,p,!1,p,p,B.a5d,!1,p,p,p,new A.aHm())),1,p)],n),B.w,B.j,B.m,0,p)
 i=A.cY(3,3,p,p,B.eA,B.h,!0,p,p,new A.aHn(a),p)
 s=q.Q
 r=s?p:q.gars()
 if(s)s=B.kv
-else s=q.a.c!=null?B.a5t:B.a57
+else s=q.a.c!=null?B.a5t:B.a58
 return A.i7(B.cm,p,A.aZ(p,A.hD(A.Ib(A.aK(A.b([m,B.by,l,B.aI,k,B.aI,j,B.kx,new A.eA(B.cR,p,p,A.aF(A.b([i,B.b1,A.cY(3,3,p,p,s,B.h,!0,p,p,r,p)],n),B.l,B.j,B.t,0,p),p)],n),B.w,p,B.j,B.t),q.d),p,B.A,p,p,B.E),B.X,p,p,q.ax,p,p,p,B.aL,p,p,p),B.pH,p,B.B,o,p)},
 adM(){var s=this,r=null,q=s.z,p=q.length!==0?B.b.bh(q,", "):"Select Classes"
 return A.Xi(r,r,A.qZ(A.an(p,r,B.ac,A.cD(r,r,q.length===0?B.ck:B.h,r,r,r,r,r,r,r,r,r,r,r,B.F,r,r,!0,r,r,r,r,r,r,r,r),r),!0,r,B.aw,new A.aH9(s),r,B.NH,1/0),!0,s.x,r,r,r,r,r,r,new A.aHa(s),r,r,!0)},
@@ -55478,7 +55478,7 @@ a3(){var s=null,r=A.b9(16),q=A.b([B.ad.X(0.95),B.aE.X(0.98)],t.W)
 return new A.a2p(new A.ba(s,s,A.cu(B.h.X(0.1),1),r,A.b([new A.cy(5,B.ae,B.o.X(0.5),B.i,20)],t.V),new A.eN(B.P,B.U,B.ar,q,s,s),s,B.y))}}
 A.a2p.prototype={
 G(a){var s=this,r=null,q=A.b9(16),p=t.N
-return A.i7(B.cm,B.q,A.aZ(r,A.aK(A.b([new A.A1(s.d,A.b([A.b5J(B.a58,s.RU(s.adC(),"Manage existing events.","Events"),"Events",p),A.b5J(B.a4C,s.RU(s.adU(),"Manage existing Series.","Series"),"Series",p)],t.QK),B.GO,B.GQ,new A.aMh(s),r,t.hN)],t.p),B.w,r,B.j,B.t),B.X,r,r,s.e,r,r,r,B.aL,r,r,r),B.GV,r,B.B,q,r)},
+return A.i7(B.cm,B.q,A.aZ(r,A.aK(A.b([new A.A1(s.d,A.b([A.b5J(B.a59,s.RU(s.adC(),"Manage existing events.","Events"),"Events",p),A.b5J(B.a4D,s.RU(s.adU(),"Manage existing Series.","Series"),"Series",p)],t.QK),B.GO,B.GQ,new A.aMh(s),r,t.hN)],t.p),B.w,r,B.j,B.t),B.X,r,r,s.e,r,r,r,B.aL,r,r,r),B.GV,r,B.B,q,r)},
 RU(a,b,c){var s=null,r=A.an(c,s,s,s,s),q=A.an(b,s,s,s,s)
 return A.aZW(B.q,s,A.cC(a,500,760),q,B.MF,r,s)},
 adC(){var s=A.Sh()
@@ -55533,15 +55533,15 @@ else{s=A.bC(m,A.b3(B.h,m,m,m,m),!0,B.JM,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m)
 r=A.U(k).h("X<1,ey<d0>>")
 r=A.R(new A.X(k,new A.aMy(n),r),r.h("aa.E"))
 s=A.vY(!1,m,!0,!0,m,s,!0,m,m,m,m,m,m,m,m,m,m,m,n.gane(),m,r,m,m,m,B.a5i,m,m,new A.aMz(),m,m,m,m,t.I3)}r=t.p
-s=A.aK(A.b([B.a4L,B.b9,s],r),B.w,m,B.j,B.m)
+s=A.aK(A.b([B.a4M,B.b9,s],r),B.w,m,B.j,B.m)
 q=n.d
 s=A.aF(A.b([s,A.aF(A.b([new A.aq(B.dt,A.cY(3,3,m,m,B.a5n,B.h,q!=null,m,m,new A.aMA(n),m),m)],r),B.ds,B.j,B.m,0,m)],r),B.l,B.aw,B.m,0,m)
 q=n.d==null
-if(q)p=B.IE
+if(q)p=B.ID
 else{p=$.aa1()
 p=A.Ag(new A.aMB(n),$.lz,new A.cN(p,A.o(p).h("cN<1>")),t._0)}p=A.bj(p,1,m)
 o=q?m:new A.aMC(n,a)
-return A.i7(B.cm,B.q,A.aZ(m,A.aK(A.b([B.ID,B.aA,s,B.YB,B.ky,p,B.b8,A.aF(A.b([A.cY(3,3,m,m,B.a5z,B.h,!q,m,B.f8,o,m),A.cY(3,3,m,m,B.oX,B.h,!0,m,m,new A.aMD(a),m)],r),B.l,B.aw,B.m,0,m)],r),B.w,m,B.j,B.t),B.X,m,m,n.r,m,600,m,B.aL,m,m,850),B.GR,m,B.B,l,m)},
+return A.i7(B.cm,B.q,A.aZ(m,A.aK(A.b([B.IC,B.aA,s,B.YB,B.ky,p,B.b8,A.aF(A.b([A.cY(3,3,m,m,B.a5z,B.h,!q,m,B.f8,o,m),A.cY(3,3,m,m,B.oX,B.h,!0,m,m,new A.aMD(a),m)],r),B.l,B.aw,B.m,0,m)],r),B.w,m,B.j,B.t),B.X,m,m,n.r,m,600,m,B.aL,m,m,850),B.GR,m,B.B,l,m)},
 adA(){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2,a3,a4,a5,a6=this,a7=null
 if(a6.d==null)return
 s=$.lz
@@ -55588,7 +55588,7 @@ s=a6.c
 s.toString
 r=A.b9(8)
 h=A.cu(B.bO,1)
-A.b0K(A.aK(A.b([A.aZ(a7,A.hD(new A.HI(a5,B.a0_,a7),a7,B.A,a7,a7,B.E),B.p,a7,B.pM,new A.ba(B.Y,a7,h,r,a7,a7,a7,B.y),a7,a7,a7,B.bd,a7,a7,a7),B.aI,A.cY(3,3,a7,s.gv(0).a/2,B.a4M,B.h,!0,a7,a7,new A.aMn(a6,a5),B.NX)],t.p),B.bC,a7,B.j,B.t),s,B.a4k,B.a4A,t.z)},
+A.b0K(A.aK(A.b([A.aZ(a7,A.hD(new A.HI(a5,B.a0_,a7),a7,B.A,a7,a7,B.E),B.p,a7,B.pM,new A.ba(B.Y,a7,h,r,a7,a7,a7,B.y),a7,a7,a7,B.bd,a7,a7,a7),B.aI,A.cY(3,3,a7,s.gv(0).a/2,B.a4N,B.h,!0,a7,a7,new A.aMn(a6,a5),B.NX)],t.p),B.bC,a7,B.j,B.t),s,B.a4l,B.a4B,t.z)},
 anY(a){A.fT(B.aX,!0,new A.aMt(this),a,t.z).aW(new A.aMu(this),t.P)},
 Av(){var s=0,r=A.v(t.H),q=this,p
 var $async$Av=A.q(function(a,b){if(a===1)return A.r(b,r)
@@ -55624,7 +55624,7 @@ if(o==null)o=A.b([],t.Kk)
 s=this.a
 r=J.fv(o,new A.aMv(s))
 q=A.R(r,r.$ti.h("p.E"))
-if(q.length===0)return B.IG
+if(q.length===0)return B.IF
 r=A.U(q).h("X<1,aq>")
 s=A.R(new A.X(q,new A.aMw(s),r),r.h("aa.E"))
 return A.hD(A.aK(s,B.l,p,B.j,B.m),p,B.A,p,p,B.E)},
@@ -55711,9 +55711,9 @@ return new A.NP(A.y(s,t.Cm),A.b([],t.b1),A.y(s,t.oE),A.y(s,t.S))}}
 A.NP.prototype={
 aj(){this.aG()},
 G(a){var s,r=this,q=null
-if(A.bS(a,q,t.w).w.a.a<900)return A.qR(q,q,A.aZ(q,A.dH(new A.aq(B.aL,A.o0(10,10,A.aK(A.b([A.aZ(q,B.NS,B.p,q,q,new A.ba(B.bT.X(0.1),q,q,q,q,q,q,B.bM),q,q,q,B.aF,q,q,q),B.oB,B.a4x,B.aN,B.a5x,B.by,A.qZ(B.a4z,!0,q,q,new A.aUi(a),q,q,q)],t.p),B.l,q,B.j,B.t),q,q,32,q),q),q,q),B.p,q,q,B.pO,q,q,q,q,q,q,q),q,!1,q)
+if(A.bS(a,q,t.w).w.a.a<900)return A.qR(q,q,A.aZ(q,A.dH(new A.aq(B.aL,A.o0(10,10,A.aK(A.b([A.aZ(q,B.NS,B.p,q,q,new A.ba(B.bT.X(0.1),q,q,q,q,q,q,B.bM),q,q,q,B.aF,q,q,q),B.oB,B.a4y,B.aN,B.a5x,B.by,A.qZ(B.a4A,!0,q,q,new A.aUi(a),q,q,q)],t.p),B.l,q,B.j,B.t),q,q,32,q),q),q,q),B.p,q,q,B.pO,q,q,q,q,q,q,q),q,!1,q)
 s=t.p
-return A.qR(r.adu(),B.q,A.aZ(q,A.aK(A.b([B.ZR,A.bj(new A.aq(B.eX,A.aF(A.b([A.bj(A.o0(10,10,A.aK(A.b([new A.aq(B.j1,A.aK(A.b([new A.qS("Sign ups ("+r.z.length+")",q),B.b8,A.aF(A.b([A.zN(q,B.a4H,new A.aUj(r),q,r.x),B.eu,A.zN(q,B.a4U,new A.aUk(r),q,r.w),B.eu,A.zN(q,B.a4G,new A.aUl(r),q,r.r)],s),B.l,B.j,B.m,0,q)],s),B.l,q,B.j,B.m),q),B.r6,A.bj(r.adG(),1,q)],s),B.w,q,B.j,B.m),q,q,0,q),3,q),B.bY,A.bj(r.adR(),7,q)],s),B.w,B.j,B.m,0,q),q),1,q),new A.aq(B.aF,A.o0(10,10,r.adE(),q,q,12,q),q)],s),B.l,q,B.j,B.m),B.p,q,q,B.pO,q,q,q,q,q,q,q),q,!0,q)},
+return A.qR(r.adu(),B.q,A.aZ(q,A.aK(A.b([B.ZR,A.bj(new A.aq(B.eX,A.aF(A.b([A.bj(A.o0(10,10,A.aK(A.b([new A.aq(B.j1,A.aK(A.b([new A.qS("Sign ups ("+r.z.length+")",q),B.b8,A.aF(A.b([A.zN(q,B.a4I,new A.aUj(r),q,r.x),B.eu,A.zN(q,B.a4V,new A.aUk(r),q,r.w),B.eu,A.zN(q,B.a4H,new A.aUl(r),q,r.r)],s),B.l,B.j,B.m,0,q)],s),B.l,q,B.j,B.m),q),B.r6,A.bj(r.adG(),1,q)],s),B.w,q,B.j,B.m),q,q,0,q),3,q),B.bY,A.bj(r.adR(),7,q)],s),B.w,B.j,B.m,0,q),q),1,q),new A.aq(B.aF,A.o0(10,10,r.adE(),q,q,12,q),q)],s),B.l,q,B.j,B.m),B.p,q,q,B.pO,q,q,q,q,q,q,q),q,!0,q)},
 adu(){var s,r,q,p,o,n,m,l=this,k=null
 $.al()
 s=A.xx(B.a6,A.xi(A.aZ(k,k,B.p,B.aE.X(0.5),k,k,k,k,k,k,k,k,k),new A.lI(10,10,k)),B.X)
@@ -55722,7 +55722,7 @@ q=l.a.c
 p=A.U(q).h("X<1,ey<d0>>")
 q=A.R(new A.X(q,new A.aSG(),p),p.h("aa.E"))
 p=t.p
-q=A.b([A.vY(!1,k,!0,!0,k,k,!0,k,k,k,k,k,k,r,k,k,k,k,new A.aSH(l),k,q,k,k,k,B.a4o,k,k,new A.aSI(),k,k,k,k,t.I3)],p)
+q=A.b([A.vY(!1,k,!0,!0,k,k,!0,k,k,k,k,k,k,r,k,k,k,k,new A.aSH(l),k,q,k,k,k,B.a4p,k,k,new A.aSI(),k,k,k,k,t.I3)],p)
 if(l.d!=null){r=A.e1("MMM d",k).ck(l.d.x)
 o=l.a_G(A.cs(l.d.x))
 n=A.e1("MMM d",k).ck(l.d.y)
@@ -55732,16 +55732,16 @@ p=A.b([],p)
 if(l.f)p.push(B.Iw)
 return A.b1Z(p,!0,B.q,k,0,s,B.NE,r)},
 adG(){var s,r,q=this
-if(q.d==null)return B.IA
+if(q.d==null)return B.Iz
 if(q.e)return B.dT
 s=q.z
-if(s.length===0)return B.Iy
+if(s.length===0)return B.Ix
 r=A.d7(s,!0,t.N5)
 B.b.dM(r,new A.aSV(q,new A.aSX(q)))
 return A.TF(null,new A.aSW(q,r),r.length,B.aF,null,!1)},
 adR(){var s,r=this,q=null
-if(r.d==null)return B.IH
-if(!r.gAQ())return A.dH(A.aK(A.b([A.aZ(q,B.O6,B.p,q,q,new A.ba(B.h.X(0.05),q,A.cu(B.dY,1),q,q,q,q,B.bM),q,q,q,B.c4,q,q,q),B.by,B.a4m,B.aN,new A.aq(B.MN,A.an("Event Team sorting can not take place until registration closes at:\n"+A.e1("MMM d, h:mm a",q).ck(r.d.z),q,q,B.a1K,B.an),q)],t.p),B.l,q,B.j,B.t),q,q)
+if(r.d==null)return B.IG
+if(!r.gAQ())return A.dH(A.aK(A.b([A.aZ(q,B.O6,B.p,q,q,new A.ba(B.h.X(0.05),q,A.cu(B.dY,1),q,q,q,q,B.bM),q,q,q,B.c4,q,q,q),B.by,B.a4n,B.aN,new A.aq(B.MN,A.an("Event Team sorting can not take place until registration closes at:\n"+A.e1("MMM d, h:mm a",q).ck(r.d.z),q,q,B.a1K,B.an),q)],t.p),B.l,q,B.j,B.t),q,q)
 s=J.kI(r.d.as)
 B.b.dM(s,new A.aT2())
 return A.TF(q,new A.aT3(r,s),s.length,B.Ms,q,!1)},
@@ -56216,7 +56216,7 @@ A.fT(B.aX,!0,new A.aSP(s),r,t.z)},
 $S:0}
 A.aSP.prototype={
 $1(a){var s=null
-return A.i7(A.b([A.cY(3,3,s,s,B.eA,B.aj,!0,s,s,new A.aSN(a),s),A.cY(3,3,s,s,B.a4j,B.ca,!0,s,s,new A.aSO(this.a,a),s)],t.p),s,s,s,B.a4n,s,s,B.a4f)},
+return A.i7(A.b([A.cY(3,3,s,s,B.eA,B.aj,!0,s,s,new A.aSN(a),s),A.cY(3,3,s,s,B.a4k,B.ca,!0,s,s,new A.aSO(this.a,a),s)],t.p),s,s,s,B.a4o,s,s,B.a4g)},
 $S:55}
 A.aSN.prototype={
 $0(){return A.cf(this.a,!1).bS()},
@@ -56545,7 +56545,7 @@ $S:0}
 A.aU8.prototype={
 $1(a){var s=null,r=A.b([A.cY(3,3,s,s,B.eA,B.aj,!0,s,s,new A.aU5(a),s)],t.p),q=this.b,p=J.fv(q.r,new A.aU6(this.c)),o=p.$ti.h("cB<1,f_>")
 q=A.R(new A.cB(p,new A.aU7(this.a,a,q),o),o.h("p.E"))
-return A.i7(r,s,A.aZ(s,A.aK(q,B.l,s,B.j,B.t),B.p,s,s,s,s,s,s,B.hq,s,s,350),s,B.a48,s,s,B.a5e)},
+return A.i7(r,s,A.aZ(s,A.aK(q,B.l,s,B.j,B.t),B.p,s,s,s,s,s,s,B.hq,s,s,350),s,B.a49,s,s,B.a5f)},
 $S:55}
 A.aU5.prototype={
 $0(){return A.cf(this.a,!1).bS()},
@@ -56634,7 +56634,7 @@ n=A.an("#"+(n+1)+" "+A.e1("EEEE d HH:mm",o).ck(p.c.b),o,o,A.cD(o,o,m.X(0.8),o,o,
 s=A.b9(6)
 r=A.cu(B.bO,1)
 q=t.p
-k=A.aZ(o,A.aF(A.b([j,B.b1,n,B.i1,A.aZ(o,A.aF(A.b([B.a4a,A.cC(new A.Uu(20,39,80,89,p.r,p.f,p.w,o),o,80)],q),B.l,B.j,B.m,0,o),B.p,o,o,new A.ba(B.lI,o,r,s,o,o,o,B.y),o,42,o,B.j4,o,o,o),B.b1,A.cY(3,3,o,o,o,B.bT,!0,"Add Team",B.Of,p.x,o)],q),B.l,B.j,B.m,0,o),B.p,o,o,new A.ba(l,o,o,k,o,o,o,B.y),o,o,B.Mw,B.br,o,o,o)
+k=A.aZ(o,A.aF(A.b([j,B.b1,n,B.i1,A.aZ(o,A.aF(A.b([B.a4b,A.cC(new A.Uu(20,39,80,89,p.r,p.f,p.w,o),o,80)],q),B.l,B.j,B.m,0,o),B.p,o,o,new A.ba(B.lI,o,r,s,o,o,o,B.y),o,42,o,B.j4,o,o,o),B.b1,A.cY(3,3,o,o,o,B.bT,!0,"Add Team",B.Of,p.x,o)],q),B.l,B.j,B.m,0,o),B.p,o,o,new A.ba(l,o,o,k,o,o,o,B.y),o,o,B.Mw,B.br,o,o,o)
 l=p.e
 s=A.U(l).h("X<1,we>")
 n=A.R(new A.X(l,new A.aUR(p),s),s.h("aa.E"))
@@ -56743,7 +56743,7 @@ A.aFU.prototype={
 $0(){},
 $S:0}
 A.aFY.prototype={
-$1(a){return B.a52},
+$1(a){return B.a53},
 $S:168}
 A.El.prototype={
 a3(){var s=$.a1(),r=$.bH().b
@@ -56814,14 +56814,14 @@ A.bJ(i).bg(0,A.bD("Profile updated successfully.",!1,!1,"Success"))}}else{o=p.c
 o.toString
 A.bJ(o).bg(0,A.bD("Failed to update profile. Please try again later.",!0,!1,"Error"))}case 1:return A.t(q,r)}})
 return A.u($async$wu,r)},
-G(a){var s,r,q,p,o=this,n=null,m=A.az(a).ok.Q,l=m==null,k=A.an("Manage your profile.",n,n,A.cD(n,n,l?n:m.b,n,n,n,n,n,n,n,n,n,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),n),j=A.an("iRacing Name",n,n,B.dj,n),i=A.i9(o.e,n,n,B.Vq,!1,new A.aJi(o),n,B.a4_,!0,n,n,n,new A.aJj()),h=A.an("iRacing Customer ID",n,n,B.dj,n),g=A.i9(o.f,n,B.ex,B.Vp,!1,n,n,B.a4h,!0,n,n,n,new A.aJk()),f=A.an("Current iRating",n,n,B.dj,n),e=A.i9(o.w,B.Yz,n,B.Vx,!1,n,n,n,!0,B.kI,n,n,n)
+G(a){var s,r,q,p,o=this,n=null,m=A.az(a).ok.Q,l=m==null,k=A.an("Manage your profile.",n,n,A.cD(n,n,l?n:m.b,n,n,n,n,n,n,n,n,n,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),n),j=A.an("iRacing Name",n,n,B.dj,n),i=A.i9(o.e,n,n,B.Vq,!1,new A.aJi(o),n,B.a4_,!0,n,n,n,new A.aJj()),h=A.an("iRacing Customer ID",n,n,B.dj,n),g=A.i9(o.f,n,B.ex,B.Vp,!1,n,n,B.a4i,!0,n,n,n,new A.aJk()),f=A.an("Current iRating",n,n,B.dj,n),e=A.i9(o.w,B.Yz,n,B.Vx,!1,n,n,n,!0,B.kI,n,n,n)
 m=A.an("(iRating is fetched from iRacing servers once a day but can be manually adjusted here temporarily.)",n,n,A.cD(n,n,l?n:m.b,n,n,n,n,n,n,n,n,11,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),n)
 s=A.an("Email Address",n,n,B.dj,n)
-r=A.i9(o.r,n,B.oM,B.zi,!1,n,n,B.a51,!1,n,n,n,new A.aJl())
+r=A.i9(o.r,n,B.oM,B.zi,!1,n,n,B.a52,!1,n,n,n,new A.aJl())
 l=o.x
 q=l?n:o.gapV()
 p=t.p
-return A.dH(A.hD(new A.cW(B.H_,A.o0(3,3,A.aK(A.b([B.a4u,B.aA,k,B.kx,A.Ib(A.aK(A.b([new A.aq(B.j2,j,n),i,B.aI,new A.aq(B.j2,h,n),g,B.aI,new A.aq(B.j2,f,n),e,new A.aq(B.MP,m,n),B.aI,new A.aq(B.j2,s,n),r,B.by,A.cY(12,12,50,n,n,B.h,!0,"Save Profile",l?B.kw:B.O0,q,n)],p),B.bC,n,B.j,B.m),o.d)],p),B.w,n,B.j,B.t),n,n,16,n),n),n,B.A,B.aF,n,B.E),n,n)}}
+return A.dH(A.hD(new A.cW(B.H_,A.o0(3,3,A.aK(A.b([B.a4v,B.aA,k,B.kx,A.Ib(A.aK(A.b([new A.aq(B.j2,j,n),i,B.aI,new A.aq(B.j2,h,n),g,B.aI,new A.aq(B.j2,f,n),e,new A.aq(B.MP,m,n),B.aI,new A.aq(B.j2,s,n),r,B.by,A.cY(12,12,50,n,n,B.h,!0,"Save Profile",l?B.kw:B.O0,q,n)],p),B.bC,n,B.j,B.m),o.d)],p),B.w,n,B.j,B.t),n,n,16,n),n),n,B.A,B.aF,n,B.E),n,n)}}
 A.aJd.prototype={
 $0(){return this.a.x=!0},
 $S:0}
@@ -57128,7 +57128,7 @@ if(s.a)s.cI()
 else s.km(0)},
 $S:0}
 A.aOe.prototype={
-$1(a){return B.a4O},
+$1(a){return B.a4P},
 $S:168}
 A.aOf.prototype={
 $1(a){var s=this.a
@@ -57161,11 +57161,11 @@ $1(a){return B.b.A(this.a,a.b)},
 $S:90}
 A.HW.prototype={
 G(a){var s=this,r=null,q=A.Vf(a,!1,t.eC),p=!(A.bS(a,r,t.w).w.a.a<800),o=!p||q.c,n=t.p,m=A.b([B.a5l,B.aA,s.Ad(a,"Default",B.ad),B.b8,s.Ad(a,"Purple",B.U5),B.b8,s.Ad(a,"Blue",B.bT),B.b8,s.Ad(a,"Red",B.cq),B.aA,B.YG,B.aA],n)
-if(p)B.b.P(m,A.b([B.a4S,B.b8,new A.Iu(q.c,new A.awX(q),B.a46,r)],n))
+if(p)B.b.P(m,A.b([B.a4T,B.b8,new A.Iu(q.c,new A.awX(q),B.a47,r)],n))
 m.push(B.ky)
-if(o)B.b.P(m,A.b([B.a45,B.b8,A.cY(3,3,r,400,B.a56,$.b0V().ax.b,!0,r,r,s.c,B.Oe)],n))
+if(o)B.b.P(m,A.b([B.a46,B.b8,A.cY(3,3,r,400,B.a57,$.b0V().ax.b,!0,r,r,s.c,B.Oe)],n))
 m.push(B.by)
-m.push(B.Ix)
+m.push(B.IH)
 return A.vw(!0,A.hD(A.dH(A.o0(10,10,new A.aq(B.c4,A.aK(m,B.w,r,B.j,B.t),r),r,r,24,300),r,r),r,B.A,B.aF,r,B.E),B.B,!0)},
 Ad(a,b,c){var s,r,q=null,p=A.Vf(a,!0,t.eC),o=p.b===b,n=c.X(0.2),m=o?c:B.bO
 m=A.cu(m,o?2:1)
@@ -57502,7 +57502,7 @@ return A.ra(d,new A.b_(A.eL(B.Lv,b,null),new A.aS(B.dD,B.i,s),s.h("b_<aQ.T>")),n
 $S:747}
 A.aXN.prototype={
 $1(a){var s=null,r=this.a
-if(r==null)r=B.a4v
+if(r==null)r=B.a4w
 return A.i7(A.b([A.cY(3,3,s,s,B.oX,B.aj,!0,s,s,new A.aXK(a),s)],t.p),s,this.c,s,this.b,s,s,r)},
 $S:55}
 A.aXK.prototype={
@@ -57531,7 +57531,7 @@ a3(){return new A.ZK()}}
 A.ZK.prototype={
 G(a){var s=null,r=$.bbC(),q=A.b9(16),p=B.h.X(0.05),o=B.h.X(0.02),n=B.h.X(0.05)
 return A.aaO(A.f4(!1,B.K,!0,s,A.uh(!1,q,!0,new A.aq(B.j1,this.ady(),s),s,!0,s,s,n,p,s,s,s,s,s,new A.aE1(this),s,o,s,s),B.p,B.q,0,s,s,s,s,s,B.b7),B.X,B.hj,r,B.ah,s,s,s,s)},
-ady(){var s,r=this,q=null,p=A.b9(12),o=$.pw(),n=r.a.c.at.gq8(),m=A.aZ(q,B.IB,B.p,B.h,q,q,q,40,q,q,q,q,40)
+ady(){var s,r=this,q=null,p=A.b9(12),o=$.pw(),n=r.a.c.at.gq8(),m=A.aZ(q,B.IA,B.p,B.h,q,q,q,40,q,q,q,q,40)
 p=A.aZ(q,o.pM(u.p+n,A.jm("assets/logos/DWR_Primary_Logo_White.png",300,q,q,B.aV,!1,q,q,q),m,B.aV),B.X,q,q,new A.ba(q,q,q,p,q,q,q,B.y),q,115,q,q,q,q,150)
 m=r.a.c
 n=m.at
@@ -57568,7 +57568,7 @@ return s.acS(r)},
 $S:0}
 A.aE_.prototype={
 $1(a){var s=null,r=A.b9(16),q=A.b9(16),p=A.b([B.ad.X(0.95),B.aE.X(0.98)],t.W),o=A.cu(B.h.X(0.1),1),n=A.b([new A.cy(5,B.ae,B.o.X(0.5),B.i,20)],t.V),m=t.p
-return A.i7(B.cm,B.q,A.aZ(s,A.aK(A.b([B.a4V,B.aA,B.a3U,B.oB,A.aF(A.b([A.cY(3,3,s,s,B.eA,B.h,!0,s,s,new A.aDY(a),s),B.b1,A.cY(3,3,s,s,B.Fj,B.aj,!0,s,s,new A.aDZ(this.a,a),s)],m),B.l,B.fj,B.m,0,s)],m),B.w,s,B.j,B.t),B.X,s,s,new A.ba(s,s,o,q,n,new A.eN(B.P,B.U,B.ar,p,s,s),s,B.y),s,s,s,B.aL,s,s,400),s,s,B.B,r,s)},
+return A.i7(B.cm,B.q,A.aZ(s,A.aK(A.b([B.a4W,B.aA,B.a3U,B.oB,A.aF(A.b([A.cY(3,3,s,s,B.eA,B.h,!0,s,s,new A.aDY(a),s),B.b1,A.cY(3,3,s,s,B.Fj,B.aj,!0,s,s,new A.aDZ(this.a,a),s)],m),B.l,B.fj,B.m,0,s)],m),B.w,s,B.j,B.t),B.X,s,s,new A.ba(s,s,o,q,n,new A.eN(B.P,B.U,B.ar,p,s,s),s,B.y),s,s,s,B.aL,s,s,400),s,s,B.B,r,s)},
 $S:55}
 A.aDY.prototype={
 $0(){return A.cf(this.a,!1).bS()},
@@ -57636,7 +57636,7 @@ l=A.aF(A.b([A.aF(A.b([m,B.et,A.aK(A.b([n,A.an(i.uZ(l.c,l.d),h,h,B.ez,h)],j),B.w,
 n=i.d
 n=A.R(new A.X(n,new A.aEg(i),A.U(n).h("X<1,e>")),t.l7)
 n.push(A.lr(B.X7,30,h,new A.aEh(i,a),B.mm,h,h))
-return A.aZ(h,A.aK(A.b([l,B.aA,B.r6,B.aA,B.a4X,B.b9,A.n6(B.ak,n,B.cf,B.a4,B.ak,8,8,h)],j),B.w,h,B.j,B.m),B.p,h,h,new A.ba(g,h,o,p,h,h,h,B.y),h,h,h,B.aF,h,h,h)},
+return A.aZ(h,A.aK(A.b([l,B.aA,B.r6,B.aA,B.a4Y,B.b9,A.n6(B.ak,n,B.cf,B.a4,B.ak,8,8,h)],j),B.w,h,B.j,B.m),B.p,h,h,new A.ba(g,h,o,p,h,h,h,B.y),h,h,h,B.aF,h,h,h)},
 afC(){this.K(new A.aE7(this))},
 apd(a){var s,r=this
 A.aBq(r.a.c.a,a.a)
@@ -57756,7 +57756,7 @@ p=A.R(s,n)
 B.b.P(p,q)
 this.K(new A.aHs(this,p,m))},
 G(a){var s,r,q,p,o=this,n=null,m=A.cY(3,3,n,n,B.oW,B.aj,!0,n,n,new A.aHD(a),n),l=o.d,k=l.length!==0&&o.e!=null,j=t.p
-k=A.b([m,A.cY(3,3,n,n,B.a49,B.fk,k,n,n,o.gafy(),n)],j)
+k=A.b([m,A.cY(3,3,n,n,B.a4a,B.fk,k,n,n,o.gafy(),n)],j)
 m=o.r
 s=A.U(m).h("X<1,ey<h>>")
 m=A.R(new A.X(m,new A.aHE(),s),s.h("aa.E"))
@@ -57764,13 +57764,13 @@ s=t.N
 m=A.vY(!1,n,!0,!0,n,n,!0,n,n,n,n,n,n,n,n,n,n,n,new A.aHF(o),n,m,n,n,n,B.Fl,n,n,new A.aHG(),n,n,n,n,s)
 r=J.ep(o.a.c.as,new A.aHH(),t.M3)
 r=A.R(r,r.$ti.h("aa.E"))
-s=A.vY(!1,n,!0,!0,n,n,!0,n,n,n,n,n,n,n,n,n,n,n,new A.aHI(o),n,r,n,n,n,B.a4B,n,n,new A.aHJ(o),n,n,n,n,s)
+s=A.vY(!1,n,!0,!0,n,n,!0,n,n,n,n,n,n,n,n,n,n,n,new A.aHI(o),n,r,n,n,n,B.a4C,n,n,new A.aHJ(o),n,n,n,n,s)
 r=A.aF(A.b([A.an("Drivers ("+l.length+")",n,n,B.Fa,n),A.cY(3,3,30,30,n,B.h,!0,n,n,o.ganZ(),B.f8)],j),B.l,B.aw,B.m,0,n)
 q=A.b9(8)
 p=A.cu(B.dY,1)
 l=l.length
-l=l===0?B.Iz:A.FO(new A.aHK(o),l,B.cl,n,new A.aHL(),!1)
-return A.i7(k,n,A.aZ(n,A.aK(A.b([B.a4J,B.b9,m,B.aN,s,r,B.b9,A.aZ(n,l,B.p,n,n,new A.ba(B.lI,n,p,q,n,n,n,B.y),n,150,n,n,n,n,n)],j),B.bC,n,B.j,B.t),B.p,n,n,n,n,n,n,B.Mx,n,n,400),n,B.a4p,n,n,B.a3R)},
+l=l===0?B.Iy:A.FO(new A.aHK(o),l,B.cl,n,new A.aHL(),!1)
+return A.i7(k,n,A.aZ(n,A.aK(A.b([B.a4K,B.b9,m,B.aN,s,r,B.b9,A.aZ(n,l,B.p,n,n,new A.ba(B.lI,n,p,q,n,n,n,B.y),n,150,n,n,n,n,n)],j),B.bC,n,B.j,B.t),B.p,n,n,n,n,n,n,B.Mx,n,n,400),n,B.a4q,n,n,B.a3R)},
 ao_(){var s=this.c
 s.toString
 A.fT(B.aX,!0,new A.aHw(this),s,t.z)},
@@ -57927,7 +57927,7 @@ l(){var s=this.e
 if(s!=null)s.az(0)
 this.an()},
 G(a){var s=null,r=this.d===0,q=A.b9(16),p=A.b9(16),o=A.b([B.ad.X(0.95),B.aE.X(0.98)],t.W),n=A.cu(B.h.X(0.1),1),m=A.b([new A.cy(5,B.ae,B.o.X(0.5),B.i,20)],t.V),l=A.cY(3,3,s,s,B.eA,B.h,!0,s,s,new A.aIT(a),s),k=r?this.a.c:s,j=t.p
-return A.i7(B.cm,B.q,A.aZ(s,A.aK(A.b([B.a5F,B.aN,B.a4g,B.b9,B.a5p,B.by,A.aF(A.b([l,B.b1,A.cY(3,3,s,s,A.an(r?"Delete Forever":"Wait ("+this.d+"s)",s,s,B.bi,s),B.aj,!0,s,s,k,s)],j),B.l,B.fj,B.m,0,s)],j),B.w,s,B.j,B.t),B.X,s,s,new A.ba(s,s,n,p,m,new A.eN(B.P,B.U,B.ar,o,s,s),s,B.y),s,s,s,B.aL,s,s,400),s,s,B.B,q,s)}}
+return A.i7(B.cm,B.q,A.aZ(s,A.aK(A.b([B.a5F,B.aN,B.a4h,B.b9,B.a5p,B.by,A.aF(A.b([l,B.b1,A.cY(3,3,s,s,A.an(r?"Delete Forever":"Wait ("+this.d+"s)",s,s,B.bi,s),B.aj,!0,s,s,k,s)],j),B.l,B.fj,B.m,0,s)],j),B.w,s,B.j,B.t),B.X,s,s,new A.ba(s,s,n,p,m,new A.eN(B.P,B.U,B.ar,o,s,s),s,B.y),s,s,s,B.aL,s,s,400),s,s,B.B,q,s)}}
 A.aIV.prototype={
 $1(a){var s=this.a
 if(s.c==null)return
@@ -57959,10 +57959,10 @@ p=p.e
 s=p?B.Tk:B.no
 s=A.cK(s,p?B.ca:B.bU,q,16)
 o=A.b([new A.aq(B.ME,o,q),B.r5,A.axd(A.an(p?"Unlock Team":"Lock Team",q,q,q,q),s,new A.aSa(r))],t.p)
-if(r.a.c.d)o.push(A.axd(B.a5_,B.O2,new A.aSb(r)))
+if(r.a.c.d)o.push(A.axd(B.a50,B.O2,new A.aSb(r)))
 o.push(B.r5)
-if(J.bm(r.a.c.r)>1)o.push(A.axd(B.a4s,B.Ob,new A.aSc(r)))
-o.push(A.axd(B.a4T,B.O9,new A.aSd(r)))
+if(J.bm(r.a.c.r)>1)o.push(A.axd(B.a4t,B.Ob,new A.aSc(r)))
+o.push(A.axd(B.a4U,B.O9,new A.aSd(r)))
 return A.ux(B.be,A.fg(q,new A.I4(r.a.d,o,B.GY,r.d,q),B.A,!1,q,q,q,q,q,q,q,new A.aSe(r),q,q,q,q,q,q,q,q,q,q),q,new A.aSf(r),q,q,q)}}
 A.aSf.prototype={
 $1(a){var s
@@ -58221,7 +58221,7 @@ if(i==null)i=""
 i=g.PR(k.a,i)
 if($.ht!=null)k=g.e?"Registered":"Register for Event"
 else k="Create Profile to Register"
-B.b.P(l,A.b([B.aI,B.M4,B.aN,B.a4R,B.b9,m,B.oC,new A.eA(B.x,f,f,A.cY(16,16,f,f,f,B.h,!i,k,f,new A.aJE(g),f),f)],j))}return A.f4(!1,B.K,!0,f,A.uh(!1,d,!0,new A.aq(B.aF,A.aK(l,B.l,f,B.j,B.t),f),f,!0,f,f,n,c,f,f,f,f,f,new A.aJF(g),f,o,f,f),B.p,B.q,0,f,f,f,f,f,B.b7)},
+B.b.P(l,A.b([B.aI,B.M4,B.aN,B.a4S,B.b9,m,B.oC,new A.eA(B.x,f,f,A.cY(16,16,f,f,f,B.h,!i,k,f,new A.aJE(g),f),f)],j))}return A.f4(!1,B.K,!0,f,A.uh(!1,d,!0,new A.aq(B.aF,A.aK(l,B.l,f,B.j,B.t),f),f,!0,f,f,n,c,f,f,f,f,f,new A.aJF(g),f,o,f,f),B.p,B.q,0,f,f,f,f,f,B.b7)},
 PR(a,b){var s=A.tJ(a)
 if(s==null)return!0
 if(s.w)return!1
@@ -58300,7 +58300,7 @@ return A.u($async$$0,r)},
 $S:7}
 A.aJJ.prototype={
 $1(a){var s=null
-return A.i7(A.b([A.qZ(B.oX,!0,s,s,new A.aJI(a),s,s,s)],t.p),s,s,s,B.a4P,s,s,B.a5v)},
+return A.i7(A.b([A.qZ(B.oX,!0,s,s,new A.aJI(a),s,s,s)],t.p),s,s,s,B.a4Q,s,s,B.a5v)},
 $S:55}
 A.aJI.prototype={
 $0(){return A.cf(this.a,!1).bS()},
@@ -58335,14 +58335,14 @@ d=g.Xm(B.hI,g.uZ(c,d.d))
 n=t.p
 j=A.b([],n)
 i=g.f
-if(i.length!==0){h=A.b([B.a44,B.b8],n)
+if(i.length!==0){h=A.b([B.a45,B.b8],n)
 B.b.P(h,new A.X(i,new A.az9(),A.U(i).h("X<1,e>")))
 B.b.P(j,h)}d=A.b([m,B.EE,l,B.EE,d,B.aN,new A.aq(B.mi,A.aK(j,B.w,f,B.j,B.m),f)],n)
 m=g.e
 l=m?B.ca.X(0.1):B.dC.X(0.1)
 j=A.b9(6)
 i=A.cu(m?B.ca.X(0.3):B.dC.X(0.3),1)
-m=m?B.a4e:B.a5A
+m=m?B.a4f:B.a5A
 j=A.b([A.aZ(B.x,m,B.p,f,f,new A.ba(l,f,i,j,f,f,f,B.y),f,f,f,B.ml,f,f,1/0),B.b8],n)
 if(r)j.push(A.aK(A.b([q,B.b9,p],n),B.bC,f,B.j,B.m))
 else j.push(A.aF(A.b([A.bj(q,1,f),B.b1,A.bj(p,1,f)],n),B.l,B.j,B.m,0,f))
@@ -58370,7 +58370,7 @@ $1(a){return a.a===this.a},
 $S:69}
 A.az6.prototype={
 $1(a){var s=null
-return A.i7(A.b([A.qZ(B.oW,!0,s,s,new A.az4(a),s,s,s),A.cY(3,3,s,s,B.Fo,B.cq,!0,s,s,new A.az5(this.a,a,this.b),s)],t.p),s,s,s,B.a4E,s,s,B.a4W)},
+return A.i7(A.b([A.qZ(B.oW,!0,s,s,new A.az4(a),s,s,s),A.cY(3,3,s,s,B.Fo,B.cq,!0,s,s,new A.az5(this.a,a,this.b),s)],t.p),s,s,s,B.a4F,s,s,B.a4X)},
 $S:55}
 A.az4.prototype={
 $0(){A.cf(this.a,!1).yz(null)
@@ -58389,7 +58389,7 @@ return A.u($async$$0,r)},
 $S:7}
 A.az3.prototype={
 $1(a){var s=null
-return A.i7(A.b([A.qZ(B.oW,!0,s,s,new A.az1(a),s,s,s),A.cY(3,3,s,s,B.Fo,B.cq,!0,s,s,new A.az2(this.a,a,this.b),s)],t.p),s,s,s,B.a5a,s,s,B.a5k)},
+return A.i7(A.b([A.qZ(B.oW,!0,s,s,new A.az1(a),s,s,s),A.cY(3,3,s,s,B.Fo,B.cq,!0,s,s,new A.az2(this.a,a,this.b),s)],t.p),s,s,s,B.a5b,s,s,B.a5k)},
 $S:55}
 A.az1.prototype={
 $0(){A.cf(this.a,!1).yz(null)
@@ -58427,7 +58427,7 @@ p="#"+i.b
 l=t.p
 p=A.b([A.aF(A.b([o,A.b5x(n,q.length===0?A.an(p,j,j,A.cD(j,j,j,j,j,j,j,j,j,j,j,10,j,j,B.a7,j,j,!0,j,j,j,j,j,j,j,j),j):A.an(p+" - "+q,j,j,B.a_S,j),B.o)],l),B.l,B.aw,B.m,0,j),B.b8,k.Jn(B.el,h.c),B.b8,A.aF(A.b([A.bj(k.Jn(B.nq,i.e),1,j),B.cM,A.bj(k.Jn(B.hI,k.uZ(h,i.d)),1,j)],l),B.l,B.j,B.m,0,j),B.b9],l)
 i=i.r.length
-if(i===0)p.push(B.a4c)
+if(i===0)p.push(B.a4d)
 else p.push(A.TF(j,new A.aB5(k),i,B.B,j,!0))
 p.push(B.b8)
 i=B.bU.X(0.1)
@@ -58486,7 +58486,7 @@ q=t.p
 p=A.b([A.yP(!1,l,B.yC,"Dashboard",new A.ayV(n),r===B.hl),A.yP(!1,l,B.fi,"Events",new A.ayW(n),r===B.e_),A.yP(!1,l,B.el,"Paddocks",new A.ayX(n),r===B.m2),A.yP(!1,l,B.em,"Profile",new A.ayY(n),r===B.m3),A.yP(!1,l,B.yD,"Settings",new A.ayZ(n),r===B.m4)],q)
 o=$.ht
 if((o==null?m:o.e)===!0)B.b.P(p,A.b([A.yP(!1,l,B.yF,"Admin",new A.az_(n),r===B.m5)],q))
-return A.aaO(A.xi(A.aZ(m,A.vw(!0,A.aK(A.b([B.aN,new A.SP(l,n.e,m),B.by,new A.aq(B.j4,A.aK(p,B.l,m,B.j,B.m),m),B.i1,A.yP(!0,l,B.yw,"Logout",new A.az0(n,a),!1),B.aN,A.an("v0.7.2 - Developed by the DWR Team",m,m,A.cD(m,m,B.h.X(0.5),m,m,m,m,m,m,m,m,9,m,m,m,m,m,!0,m,m,m,m,m,m,m,m),m)],q),B.l,m,B.j,B.m),B.B,!0),B.p,m,m,new A.ba(m,m,m,m,m,new A.eN(B.bz,B.aU,B.ar,s,m,m),m,B.y),m,m,m,m,m,m,m),new A.lI(15,15,m)),B.X,B.hj,new A.ba(j,m,new A.e_(B.u,new A.ce(i,1,B.R,-1),B.u,B.u),m,m,m,m,B.y),B.ra,m,m,m,k)},
+return A.aaO(A.xi(A.aZ(m,A.vw(!0,A.aK(A.b([B.aN,new A.SP(l,n.e,m),B.by,new A.aq(B.j4,A.aK(p,B.l,m,B.j,B.m),m),B.i1,A.yP(!0,l,B.yw,"Logout",new A.az0(n,a),!1),B.aN,A.an("v0.1.0 Beta - Developed by the DWR Team",m,m,A.cD(m,m,B.h.X(0.5),m,m,m,m,m,m,m,m,9,m,m,m,m,m,!0,m,m,m,m,m,m,m,m),m)],q),B.l,m,B.j,B.m),B.B,!0),B.p,m,m,new A.ba(m,m,m,m,m,new A.eN(B.bz,B.aU,B.ar,s,m,m),m,B.y),m,m,m,m,m,m,m),new A.lI(15,15,m)),B.X,B.hj,new A.ba(j,m,new A.e_(B.u,new A.ce(i,1,B.R,-1),B.u,B.u),m,m,m,m,B.y),B.ra,m,m,m,k)},
 ar1(a){var s
 A.b3i()
 A.II()
@@ -58528,7 +58528,7 @@ G(a){var s,r=this,q=null,p=r.a.c,o=A.U(p).h("af<1>"),n=A.R(new A.af(p,new A.acw(
 p=A.b9(16)
 o=A.vS(q,!0,B.c9,!1,q,B.J,q,q,q,q,q,q,q,q,q,q,q,B.A,q,!0,q,!0,!0,!1,q,q,q,q,q,q,q,q,q,B.rS,B.dL,q,q,q,1,q,q,!1,"\u2022",q,new A.acx(r),q,q,q,!1,q,q,q,B.Fn,q,q,!1,q,!0,q,B.c4,q,q,q,B.c0,B.bp,q,q,q,q,q,q,B.aC,B.dh,q,q,q,q,q)
 s=n.length
-return A.i7(B.cm,B.q,A.f4(!1,B.K,!0,q,A.aZ(q,A.aK(A.b([o,B.aI,A.bj(s===0?B.IC:A.FO(new A.acy(r,n),s,q,q,new A.acz(),!1),1,q)],t.p),B.l,q,B.j,B.m),B.X,q,B.GW,r.e,q,q,q,B.aL,q,q,450),B.p,B.q,0,q,q,q,q,q,B.b7),q,q,B.B,p,q)}}
+return A.i7(B.cm,B.q,A.f4(!1,B.K,!0,q,A.aZ(q,A.aK(A.b([o,B.aI,A.bj(s===0?B.IB:A.FO(new A.acy(r,n),s,q,q,new A.acz(),!1),1,q)],t.p),B.l,q,B.j,B.m),B.X,q,B.GW,r.e,q,q,q,B.aL,q,q,450),B.p,B.q,0,q,q,q,q,q,B.b7),q,q,B.B,p,q)}}
 A.acw.prototype={
 $1(a){return B.c.A(a.c.toLowerCase(),this.a.d.toLowerCase())},
 $S:90}
@@ -58567,7 +58567,7 @@ if(p.length!==0)$.a7.p3$.push(new A.aG9(o,p))},
 IE(){this.a.NJ(this.d)},
 apb(a){this.K(new A.aG_(this,a))
 this.IE()},
-G(a){var s,r=null,q=this.d,p=A.b([A.qZ(B.a4b,q.length<3,B.f8,r,new A.aG3(this,a),r,r,1/0),B.aN],t.p)
+G(a){var s,r=null,q=this.d,p=A.b([A.qZ(B.a4c,q.length<3,B.f8,r,new A.aG3(this,a),r,r,1/0),B.aN],t.p)
 if(q.length===0)p.push(B.a5o)
 else{s=A.U(q).h("X<1,jz>")
 q=A.R(new A.X(q,new A.aG4(this),s),s.h("aa.E"))
@@ -58659,7 +58659,7 @@ A.Jl.prototype={
 a3(){return new A.NO(A.b([],t.q6))},
 NJ(a){return this.d.$1(a)}}
 A.NO.prototype={
-G(a){var s,r=null,q=A.b([A.qZ(B.a4Y,!0,B.f8,r,new A.aSC(this,a),r,r,1/0),B.aN],t.p),p=this.d
+G(a){var s,r=null,q=A.b([A.qZ(B.a4Z,!0,B.f8,r,new A.aSC(this,a),r,r,1/0),B.aN],t.p),p=this.d
 if(p.length===0)q.push(B.a3O)
 else{s=A.U(p).h("X<1,jz>")
 p=A.R(new A.X(p,new A.aSD(this),s),s.h("aa.E"))
@@ -106356,7 +106356,7 @@ s=new A.aR_(g,r).$1(s)
 break
 default:s=f}s=A.an(s,f,f,m,f)}else{s=A.dO(e.cy.as,e.a.Q,f)
 g.a.toString
-s=A.e2(B.a4I,f,f,B.aq,!0,s,f,f,B.Z)}return A.Xi(p.ap,q.da,A.ax9(!1,p.cf,s,p.ds,p.aw,q.fL,q.lv,!1,q.bp,p.bQ,p.fm,p.dE,p.bo,p.bd,p.bF,p.cY,p.H,j,p.bq,p.e9,q.axv,q.axx,q.axw,q.axz,q.bc,q.ix,q.axr,q.axt,q.axu,q.LZ,q.axs,new A.aR0(g),q.LY,q.d8,q.xI,q.cu,q.d7,q.fk,p.da,p.cH,p.ca,p.cX,q.jO,p.D,q.axy,m,f,p.bP,i),!0,k,p.S,p.aT,p.ar,q.bq,n,p.L,new A.aR1(g,n,!0,e,o),p.bE,p.b6,!0)}}
+s=A.e2(B.a4J,f,f,B.aq,!0,s,f,f,B.Z)}return A.Xi(p.ap,q.da,A.ax9(!1,p.cf,s,p.ds,p.aw,q.fL,q.lv,!1,q.bp,p.bQ,p.fm,p.dE,p.bo,p.bd,p.bF,p.cY,p.H,j,p.bq,p.e9,q.axv,q.axx,q.axw,q.axz,q.bc,q.ix,q.axr,q.axt,q.axu,q.LZ,q.axs,new A.aR0(g),q.LY,q.d8,q.xI,q.cu,q.d7,q.fk,p.da,p.cH,p.ca,p.cX,q.jO,p.D,q.axy,m,f,p.bP,i),!0,k,p.S,p.aT,p.ar,q.bq,n,p.L,new A.aR1(g,n,!0,e,o),p.bE,p.b6,!0)}}
 A.aQZ.prototype={
 $1(a){var s=this.b,r=A.bke(a)
 return A.e1("MMMM",s.iY("-")).ck(a)+" "+r+", "+A.e1("y",s.iY("-")).ck(a)},
@@ -108582,7 +108582,7 @@ c=A.b5L(o.cy,o.dy,d.p1,e)
 b.e!==$&&A.aP()
 b.e=c
 o=d
-f=c}p.push(A.b5K(f,g,o.ry,j,n,o.to,B.a4Q,h,new A.aRY(b,!0),l,B.Fm,i,m))
+f=c}p.push(A.b5K(f,g,o.ry,j,n,o.to,B.a4R,h,new A.aRY(b,!0),l,B.Fm,i,m))
 o=b.a
 o.toString
 k=k[1]
@@ -116981,50 +116981,50 @@ B.U_=new A.cH([50,B.Jf,100,B.Kq,200,B.Kf,300,B.Kc,400,B.KK,500,B.Jq,600,B.KJ,700
 B.bU=new A.lc(B.U_,1,1,0.7568627450980392,0.027450980392156862,B.e)
 B.a7=new A.jj(6)
 B.a1X=new A.E(!0,B.bU,null,null,null,null,12,B.a7,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.a5d=new A.a6("Unsaved Changes",null,B.a1X,null,null,null,null)
-B.Vt=new A.aq(B.Mv,B.a5d,null)
+B.a5e=new A.a6("Unsaved Changes",null,B.a1X,null,null,null,null)
+B.Vt=new A.aq(B.Mv,B.a5e,null)
 B.Iw=new A.ee(B.x,null,null,B.Vt,null)
-B.eS=new A.z(0.23921568627450981,1,1,1,B.e)
-B.a2W=new A.E(!0,B.eS,null,"monospace",null,null,10,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.a5g=new A.a6("v0.7.2 - Developed by the DWR Team",null,B.a2W,null,null,null,null)
-B.Ix=new A.ee(B.x,null,null,B.a5g,null)
 B.MZ=new A.nN("No unassigned drivers",null)
-B.Iy=new A.ee(B.x,null,null,B.MZ,null)
+B.Ix=new A.ee(B.x,null,null,B.MZ,null)
 B.n1=new A.fE(57815,"MaterialIcons",null,!1)
 B.dY=new A.z(0.10196078431372549,1,1,1,B.e)
 B.O7=new A.bE(B.n1,null,B.dY,null,null)
 B.ir=new A.ee(B.x,null,null,B.O7,null)
+B.eS=new A.z(0.23921568627450981,1,1,1,B.e)
 B.jj=new A.F1(1,"italic")
 B.oT=new A.E(!0,B.eS,null,null,null,null,null,null,B.jj,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.a5D=new A.a6("No drivers added",null,B.oT,null,null,null,null)
-B.Iz=new A.ee(B.x,null,null,B.a5D,null)
+B.Iy=new A.ee(B.x,null,null,B.a5D,null)
 B.MX=new A.nN("Please select an event",null)
-B.IA=new A.ee(B.x,null,null,B.MX,null)
+B.Iz=new A.ee(B.x,null,null,B.MX,null)
 B.Y=new A.z(0.5411764705882353,0,0,0,B.e)
 B.rV=new A.bE(B.n1,null,B.Y,null,null)
-B.IB=new A.ee(B.x,null,null,B.rV,null)
+B.IA=new A.ee(B.x,null,null,B.rV,null)
 B.a9m=new A.aDS(0,"material")
 B.IT=new A.nF(null,null,null)
 B.dT=new A.ee(B.x,null,null,B.IT,null)
 B.c2=new A.z(0.3843137254901961,1,1,1,B.e)
 B.dM=new A.E(!0,B.c2,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.a42=new A.a6("No cars found",null,B.dM,null,null,null,null)
-B.IC=new A.ee(B.x,null,null,B.a42,null)
+B.a43=new A.a6("No cars found",null,B.dM,null,null,null,null)
+B.IB=new A.ee(B.x,null,null,B.a43,null)
 B.h=new A.z(1,1,1,1,B.e)
 B.fH=new A.E(!0,B.h,null,null,null,null,20,B.a7,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.a4F=new A.a6("Manage Teams",null,B.fH,null,null,null,null)
-B.ID=new A.ee(B.x,null,null,B.a4F,null)
+B.a4G=new A.a6("Manage Teams",null,B.fH,null,null,null,null)
+B.IC=new A.ee(B.x,null,null,B.a4G,null)
 B.a3Q=new A.a6("Please select an event to view teams.",null,B.dM,null,null,null,null)
-B.IE=new A.ee(B.x,null,null,B.a3Q,null)
+B.ID=new A.ee(B.x,null,null,B.a3Q,null)
 B.a5B=new A.a6("No teams found for this event.",null,B.dM,null,null,null,null)
-B.IG=new A.ee(B.x,null,null,B.a5B,null)
+B.IF=new A.ee(B.x,null,null,B.a5B,null)
 B.MY=new A.nN("Select an event to view timeslots",null)
-B.IH=new A.ee(B.x,null,null,B.MY,null)
+B.IG=new A.ee(B.x,null,null,B.MY,null)
 B.qz=new A.z(0.45098039215686275,0,0,0,B.e)
 B.NV=new A.bE(B.n1,null,B.qz,null,null)
 B.qa=new A.ee(B.x,null,null,B.NV,null)
-B.a4i=new A.a6("No drivers found",null,B.dM,null,null,null,null)
-B.II=new A.ee(B.x,null,null,B.a4i,null)
+B.a2W=new A.E(!0,B.eS,null,"monospace",null,null,10,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
+B.a40=new A.a6("v0.1.0 Beta - Developed by the DWR Team",null,B.a2W,null,null,null,null)
+B.IH=new A.ee(B.x,null,null,B.a40,null)
+B.a4j=new A.a6("No drivers found",null,B.dM,null,null,null,null)
+B.II=new A.ee(B.x,null,null,B.a4j,null)
 B.lA=new A.hr(0,"close")
 B.lB=new A.hr(1,"error")
 B.qb=new A.hr(2,"join")
@@ -117496,10 +117496,10 @@ B.j=new A.qp(0,"start")
 B.m=new A.TS(1,"max")
 B.ce=new A.Zj(1,"down")
 B.ey=new A.E(!0,B.h,null,null,null,null,18,B.a7,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.a5f=new A.a6("Admin Dashboard",null,B.ey,null,null,null,null)
+B.a5g=new A.a6("Admin Dashboard",null,B.ey,null,null,null,null)
 B.aA=new A.cm(null,10,null,null)
-B.a4N=new A.a6("Welcome to the admin dashboard. Here you can manage application settings and user accounts.",null,B.dM,null,null,null,null)
-B.Qr=s([B.a5f,B.aA,B.a4N],t.p)
+B.a4O=new A.a6("Welcome to the admin dashboard. Here you can manage application settings and user accounts.",null,B.dM,null,null,null,null)
+B.Qr=s([B.a5g,B.aA,B.a4O],t.p)
 B.Lp=new A.jb(B.E,B.j,B.m,B.w,null,B.ce,null,0,B.Qr,null)
 B.N2=new A.jf(1,B.f5,B.Lp,null)
 B.N3=new A.EK(null,null,null,null,null,null,null,null,null,null,null,null,null)
@@ -119152,9 +119152,9 @@ B.Vr=new A.aq(B.My,B.YD,null)
 B.Oh=new A.bE(B.yx,16,B.c2,null,null)
 B.Vs=new A.aq(B.bd,B.Oh,null)
 B.Mz=new A.av(0,30,0,30)
-B.a4l=new A.a6("No teams created for this slot yet.",null,B.oT,null,null,null,null)
-B.IF=new A.ee(B.x,null,null,B.a4l,null)
-B.Vu=new A.aq(B.Mz,B.IF,null)
+B.a4m=new A.a6("No teams created for this slot yet.",null,B.oT,null,null,null,null)
+B.IE=new A.ee(B.x,null,null,B.a4m,null)
+B.Vu=new A.aq(B.Mz,B.IE,null)
 B.NL=new A.bE(B.em,12,B.D,null,null)
 B.Vv=new A.aq(B.cD,B.NL,null)
 B.t0=new A.bE(B.no,16,B.D,null,null)
@@ -119164,8 +119164,8 @@ B.Vx=new A.aq(B.bd,B.NK,null)
 B.Vy=new A.aq(B.cl,B.t0,null)
 B.Vz=new A.aq(B.cl,B.rX,null)
 B.a25=new A.E(!0,B.aj,null,null,null,null,12,null,B.jj,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.a50=new A.a6("* At least one timeslot is required",null,B.a25,null,null,null,null)
-B.VA=new A.aq(B.dt,B.a50,null)
+B.a51=new A.a6("* At least one timeslot is required",null,B.a25,null,null,null,null)
+B.VA=new A.aq(B.dt,B.a51,null)
 B.dc=new A.UK(0,"fill")
 B.cc=new A.UK(1,"stroke")
 B.VC=new A.qy(1/0)
@@ -119272,8 +119272,8 @@ B.k4=new A.lo(null,null)
 B.NI=new A.bE(B.np,14,null,null,null)
 B.cs=new A.cm(6,null,null,null)
 B.a3o=new A.E(!0,null,null,null,null,null,12,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.a53=new A.a6("Add Driver",null,B.a3o,null,null,null,null)
-B.Qj=s([B.NI,B.cs,B.a53],t.p)
+B.a54=new A.a6("Add Driver",null,B.a3o,null,null,null,null)
+B.Qj=s([B.NI,B.cs,B.a54],t.p)
 B.X7=new A.zs(B.a4,B.j,B.t,B.l,null,B.ce,null,0,B.Qj,null)
 B.Tf=new A.bP(57594,"Lucide","lucide_icons_flutter",!1)
 B.a__=new A.Aa(B.Tf,"Instagram","https://www.instagram.com/dark_wing_racing/",null)
@@ -120017,92 +120017,92 @@ B.a3Y=new A.a6("Back to Login",null,null,null,null,null,null)
 B.a2_=new A.E(!0,B.aj,null,null,null,null,12,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.a3Z=new A.a6("Team Red",null,B.a2_,null,null,null,null)
 B.a4_=new A.a6("John Doe",null,null,null,null,null,null)
-B.a40=new A.a6("Distance",null,null,null,null,null,null)
+B.a41=new A.a6("Distance",null,null,null,null,null,null)
 B.a1J=new A.E(!0,null,null,null,null,null,13,B.a7,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.a41=new A.a6("Scheduled Slots (Tap to set Main Event):",null,B.a1J,null,null,null,null)
+B.a42=new A.a6("Scheduled Slots (Tap to set Main Event):",null,B.a1J,null,null,null,null)
 B.a1F=new A.E(!0,B.D,null,null,null,null,13,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.a43=new A.a6("Enter your email to receive a reset token.",null,B.a1F,B.an,null,null,null)
+B.a44=new A.a6("Enter your email to receive a reset token.",null,B.a1F,B.an,null,null,null)
 B.a1p=new A.E(!0,B.c2,null,null,null,null,10,B.bP,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.a44=new A.a6("Team Roster:",null,B.a1p,null,null,null,null)
+B.a45=new A.a6("Team Roster:",null,B.a1p,null,null,null,null)
 B.oV=new A.E(!0,B.h,null,null,null,null,12,B.a7,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.a45=new A.a6("Account",null,B.oV,null,null,null,null)
-B.a46=new A.a6("Use Bottom Navigation",null,null,null,null,null,null)
-B.a47=new A.a6("Allow Multiple Signups",null,null,null,null,null,null)
-B.a48=new A.a6("Select a driver to remove from this team.",null,null,null,null,null,null)
-B.a49=new A.a6("Create",null,null,null,null,null,null)
-B.a4a=new A.a6("Team # ",null,B.i4,null,null,null,null)
-B.a4b=new A.a6("Add Car",null,null,null,null,null,null)
+B.a46=new A.a6("Account",null,B.oV,null,null,null,null)
+B.a47=new A.a6("Use Bottom Navigation",null,null,null,null,null,null)
+B.a48=new A.a6("Allow Multiple Signups",null,null,null,null,null,null)
+B.a49=new A.a6("Select a driver to remove from this team.",null,null,null,null,null,null)
+B.a4a=new A.a6("Create",null,null,null,null,null,null)
+B.a4b=new A.a6("Team # ",null,B.i4,null,null,null,null)
+B.a4c=new A.a6("Add Car",null,null,null,null,null,null)
 B.a3y=new A.E(!0,B.c2,null,null,null,null,12,null,B.jj,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.a4c=new A.a6("Loading team members...",null,B.a3y,null,null,null,null)
-B.a4d=new A.a6("Create New Series",null,B.fH,null,null,null,null)
+B.a4d=new A.a6("Loading team members...",null,B.a3y,null,null,null,null)
+B.a4e=new A.a6("Create New Series",null,B.fH,null,null,null,null)
 B.a2O=new A.E(!0,B.ca,null,null,null,null,11,B.a7,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.a4e=new A.a6("Pending Assignment",null,B.a2O,null,null,null,null)
-B.a4f=new A.a6("Confirm Generation",null,null,null,null,null,null)
-B.a4g=new A.a6("This action is irreversible.",null,B.i5,null,null,null,null)
-B.a4h=new A.a6("123456",null,null,null,null,null,null)
-B.a4j=new A.a6("Confirm",null,B.bi,null,null,null,null)
-B.a4k=new A.a6("Copy this list to paste into Discord",null,null,null,null,null,null)
-B.a4m=new A.a6("Registration is still open",null,B.fH,null,null,null,null)
-B.a4n=new A.a6("Are you sure you want to confirm these teams and generate the schedule? This action cannot be undone.",null,null,null,null,null,null)
-B.a4o=new A.a6("Select an Event",null,B.oR,null,null,null,null)
-B.a4p=new A.a6("Select drivers and assign a unique team number.",null,null,null,null,null,null)
-B.a4q=new A.a6("Forgot Password?",null,B.kI,null,null,null,null)
-B.a4r=new A.a6("Select Event Series",null,null,null,null,null,null)
-B.a4s=new A.a6("Remove a Driver...",null,null,null,null,null,null)
+B.a4f=new A.a6("Pending Assignment",null,B.a2O,null,null,null,null)
+B.a4g=new A.a6("Confirm Generation",null,null,null,null,null,null)
+B.a4h=new A.a6("This action is irreversible.",null,B.i5,null,null,null,null)
+B.a4i=new A.a6("123456",null,null,null,null,null,null)
+B.a4k=new A.a6("Confirm",null,B.bi,null,null,null,null)
+B.a4l=new A.a6("Copy this list to paste into Discord",null,null,null,null,null,null)
+B.a4n=new A.a6("Registration is still open",null,B.fH,null,null,null,null)
+B.a4o=new A.a6("Are you sure you want to confirm these teams and generate the schedule? This action cannot be undone.",null,null,null,null,null,null)
+B.a4p=new A.a6("Select an Event",null,B.oR,null,null,null,null)
+B.a4q=new A.a6("Select drivers and assign a unique team number.",null,null,null,null,null,null)
+B.a4r=new A.a6("Forgot Password?",null,B.kI,null,null,null,null)
+B.a4s=new A.a6("Select Event Series",null,null,null,null,null,null)
+B.a4t=new A.a6("Remove a Driver...",null,null,null,null,null,null)
 B.Fj=new A.a6("Delete",null,B.bi,null,null,null,null)
-B.a4t=new A.a6("View All",null,null,null,null,null,null)
-B.a4u=new A.a6("Driver Profile",null,B.ey,null,null,null,null)
-B.a4v=new A.a6("Info",null,null,null,null,null,null)
-B.a4w=new A.a6("Set New Password",null,B.ey,B.an,null,null,null)
-B.a4x=new A.a6("Desktop Required",null,B.fH,null,null,null,null)
-B.a4y=new A.a6("Update Password",null,null,null,null,null,null)
-B.a4z=new A.a6("Go Back",null,null,null,null,null,null)
+B.a4u=new A.a6("View All",null,null,null,null,null,null)
+B.a4v=new A.a6("Driver Profile",null,B.ey,null,null,null,null)
+B.a4w=new A.a6("Info",null,null,null,null,null,null)
+B.a4x=new A.a6("Set New Password",null,B.ey,B.an,null,null,null)
+B.a4y=new A.a6("Desktop Required",null,B.fH,null,null,null,null)
+B.a4z=new A.a6("Update Password",null,null,null,null,null,null)
+B.a4A=new A.a6("Go Back",null,null,null,null,null,null)
 B.Fk=new A.a6("Loading Event Data...",null,B.oT,null,null,null,null)
-B.a4A=new A.a6("Discord Export",null,null,null,null,null,null)
-B.a4B=new A.a6("Timeslot",null,null,null,null,null,null)
-B.a4C=new A.a6("Series",null,null,null,null,null,null)
-B.a4D=new A.a6("Send Reset Token",null,null,null,null,null,null)
-B.a4E=new A.a6("Are you sure you want to leave this specific timeslot? \n This will remove your entry for this timeslot. Teammates will not be affected.",null,null,null,null,null,null)
+B.a4B=new A.a6("Discord Export",null,null,null,null,null,null)
+B.a4C=new A.a6("Timeslot",null,null,null,null,null,null)
+B.a4D=new A.a6("Series",null,null,null,null,null,null)
+B.a4E=new A.a6("Send Reset Token",null,null,null,null,null,null)
+B.a4F=new A.a6("Are you sure you want to leave this specific timeslot? \n This will remove your entry for this timeslot. Teammates will not be affected.",null,null,null,null,null,null)
 B.oW=new A.a6("Cancel",null,null,null,null,null,null)
 B.oP=new A.E(!0,B.D,null,null,null,null,10,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.a4G=new A.a6("Sort by Team Red",null,B.oP,null,null,null,null)
+B.a4H=new A.a6("Sort by Team Red",null,B.oP,null,null,null,null)
 B.eA=new A.a6("Cancel",null,B.bi,null,null,null,null)
-B.a4H=new A.a6("Sort by Timeslot",null,B.oP,null,null,null,null)
-B.a4I=new A.a6("Select date",null,null,null,null,null,null)
-B.a4J=new A.a6("Team Number",null,B.Fa,null,null,null,null)
+B.a4I=new A.a6("Sort by Timeslot",null,B.oP,null,null,null,null)
+B.a4J=new A.a6("Select date",null,null,null,null,null,null)
+B.a4K=new A.a6("Team Number",null,B.Fa,null,null,null,null)
 B.oX=new A.a6("Close",null,null,null,null,null,null)
-B.a4K=new A.a6("Select Type",null,null,null,null,null,null)
-B.a4L=new A.a6("Select Event",null,B.kJ,null,null,null,null)
-B.a4M=new A.a6("Copy to Clipboard",null,B.bi,null,null,null,null)
-B.a4O=new A.a6("If enabled, other drivers can join your team during team assignment.",null,B.bi,null,null,null,null)
-B.a4P=new A.a6("You need to create a driver profile before registering for events, head to the profile page to set it up.",null,null,null,null,null,null)
-B.a4Q=new A.a6("Hours",null,null,null,null,null,null)
+B.a4L=new A.a6("Select Type",null,null,null,null,null,null)
+B.a4M=new A.a6("Select Event",null,B.kJ,null,null,null,null)
+B.a4N=new A.a6("Copy to Clipboard",null,B.bi,null,null,null,null)
+B.a4P=new A.a6("If enabled, other drivers can join your team during team assignment.",null,B.bi,null,null,null,null)
+B.a4Q=new A.a6("You need to create a driver profile before registering for events, head to the profile page to set it up.",null,null,null,null,null,null)
+B.a4R=new A.a6("Hours",null,null,null,null,null,null)
 B.a02=new A.E(!0,B.D,null,null,null,null,12,B.e7,null,1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.a4R=new A.a6("AVAILABLE TIME SLOTS",null,B.a02,null,null,null,null)
-B.a4S=new A.a6("Toggles",null,B.oV,null,null,null,null)
+B.a4S=new A.a6("AVAILABLE TIME SLOTS",null,B.a02,null,null,null,null)
+B.a4T=new A.a6("Toggles",null,B.oV,null,null,null,null)
 B.a0g=new A.E(!0,B.aj,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.a4T=new A.a6("Delete Signup",null,B.a0g,null,null,null,null)
+B.a4U=new A.a6("Delete Signup",null,B.a0g,null,null,null,null)
 B.Fl=new A.a6("Select Number",null,null,null,null,null,null)
-B.a4U=new A.a6("Sort by iRating",null,B.oP,null,null,null,null)
-B.a4V=new A.a6("Delete Event?",null,B.ey,null,null,null,null)
-B.a4W=new A.a6("Withdraw from Timeslot?",null,null,null,null,null,null)
+B.a4V=new A.a6("Sort by iRating",null,B.oP,null,null,null,null)
+B.a4W=new A.a6("Delete Event?",null,B.ey,null,null,null,null)
+B.a4X=new A.a6("Withdraw from Timeslot?",null,null,null,null,null,null)
 B.a1S=new A.E(!0,B.ck,null,null,null,null,12,B.bP,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.a4X=new A.a6("Registered Drivers",null,B.a1S,null,null,null,null)
-B.a4Y=new A.a6("Add Teammate",null,null,null,null,null,null)
-B.a4Z=new A.a6("Email",null,null,null,null,null,null)
-B.a5_=new A.a6("Split Team",null,null,null,null,null,null)
-B.a51=new A.a6("driver@dwr.com",null,null,null,null,null,null)
-B.a52=new A.a6("Re-cache Series & Tracks",null,null,null,null,null,null)
-B.a54=new A.a6("Add Slot",null,null,null,null,null,null)
-B.a55=new A.a6("New Password",null,null,null,null,null,null)
-B.a56=new A.a6("Log Out",null,null,null,null,null,null)
-B.a57=new A.a6("Create Series",null,B.bi,null,null,null,null)
-B.a58=new A.a6("Events",null,null,null,null,null,null)
-B.a59=new A.a6("Reset Password",null,B.ey,B.an,null,null,null)
-B.a5a=new A.a6("Are you sure you want to leave this event entirely?\nThis will remove all your timeslot entries for this event. Teammates will not be affected.",null,null,null,null,null,null)
-B.a5b=new A.a6("e.g. 1",null,null,null,null,null,null)
-B.a5c=new A.a6("e.g. 4",null,null,null,null,null,null)
-B.a5e=new A.a6("Remove Driver",null,null,null,null,null,null)
+B.a4Y=new A.a6("Registered Drivers",null,B.a1S,null,null,null,null)
+B.a4Z=new A.a6("Add Teammate",null,null,null,null,null,null)
+B.a5_=new A.a6("Email",null,null,null,null,null,null)
+B.a50=new A.a6("Split Team",null,null,null,null,null,null)
+B.a52=new A.a6("driver@dwr.com",null,null,null,null,null,null)
+B.a53=new A.a6("Re-cache Series & Tracks",null,null,null,null,null,null)
+B.a55=new A.a6("Add Slot",null,null,null,null,null,null)
+B.a56=new A.a6("New Password",null,null,null,null,null,null)
+B.a57=new A.a6("Log Out",null,null,null,null,null,null)
+B.a58=new A.a6("Create Series",null,B.bi,null,null,null,null)
+B.a59=new A.a6("Events",null,null,null,null,null,null)
+B.a5a=new A.a6("Reset Password",null,B.ey,B.an,null,null,null)
+B.a5b=new A.a6("Are you sure you want to leave this event entirely?\nThis will remove all your timeslot entries for this event. Teammates will not be affected.",null,null,null,null,null,null)
+B.a5c=new A.a6("e.g. 1",null,null,null,null,null,null)
+B.a5d=new A.a6("e.g. 4",null,null,null,null,null,null)
+B.a5f=new A.a6("Remove Driver",null,null,null,null,null,null)
 B.a5h=new A.a6("Submit Registration",null,null,null,null,null,null)
 B.a5i=new A.a6("Select an Event to manage",null,null,null,null,null,null)
 B.a5j=new A.a6("Find a Driver",null,B.ey,null,null,null,null)
