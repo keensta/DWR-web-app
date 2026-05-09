@@ -68992,7 +68992,7 @@ break}m.e=!0
 m.H()
 p=4
 s=7
-return A.j(m.a.geQ().A2(B.c.bQ(m.c.a.a),"https://dwr-app.co.uk/callback?type=signup",B.c.bQ(m.d.a.a)),$async$Kk)
+return A.j(m.a.geQ().A2(B.c.bQ(m.c.a.a),"https://dwr-app.co.uk/#/callback?type=signup",B.c.bQ(m.d.a.a)),$async$Kk)
 case 7:if(a.e==null){n=[1]
 s=5
 break}A.b5(a).b0(0,A.aZ("Registration successful! Please check your email to confirm your account.",!1,!1,"Verification Email Sent"))
