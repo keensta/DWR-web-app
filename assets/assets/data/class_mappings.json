@@ -1,0 +1,37 @@
+{
+  "version": 1,
+  "classes": [
+    {
+      "id": -2,
+      "name": "GT3"
+    },
+    {
+      "id": -1,
+      "name": "GT4"
+    },
+    {
+      "id": -3,
+      "name": "GTE"
+    },
+    {
+      "id": -47754,
+      "name": "GTP"
+    },
+    {
+      "id": -12,
+      "name": "TCR"
+    },
+    {
+      "id": 29,
+      "name": "Dallara P217"
+    },
+    {
+      "id": 179,
+      "name": "BMW M2 CS Racing"
+    },
+    {
+      "id": 194,
+      "name": "Porsche 911 Cup (992.2)"
+    }
+  ]
+}
