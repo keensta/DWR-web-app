@@ -1,0 +1,165 @@
+{
+  "version": 1,
+  "cars": [
+    {
+      "id": 153,
+      "name": "Acura ARX-06 GTP"
+    },
+    {
+      "id": 178,
+      "name": "Acura NSX GT3 EVO 22"
+    },
+    {
+      "id": 192,
+      "name": "Aston Martin Vantage GT3 EVO"
+    },
+    {
+      "id": 130,
+      "name": "Aston Martin Vantage GT4"
+    },
+    {
+      "id": 160,
+      "name": "Audi R8 LMS EVO II GT3"
+    },
+    {
+      "id": 45,
+      "name": "Audi R8 LMS GT3"
+    },
+    {
+      "id": 195,
+      "name": "Audi RS3 LMS Gen2 TCR"
+    },
+    {
+      "id": 9,
+      "name": "Audi RS3 LMS TCR"
+    },
+    {
+      "id": 21,
+      "name": "BMW M4 F82 GT4 - 2018"
+    },
+    {
+      "id": 172,
+      "name": "BMW M4 G82 GT4 Evo"
+    },
+    {
+      "id": 33,
+      "name": "BMW M4 GT3 EVO"
+    },
+    {
+      "id": 18,
+      "name": "BMW Z4 GT3"
+    },
+    {
+      "id": 151,
+      "name": "Cadillac V-Series.R GTP"
+    },
+    {
+      "id": 168,
+      "name": "Chevrolet Corvette Z06 GT3.R"
+    },
+    {
+      "id": 29,
+      "name": "Dallara P217"
+    },
+    {
+      "id": 155,
+      "name": "Ferrari 296 GT3"
+    },
+    {
+      "id": 20,
+      "name": "Ferrari 488 GT3"
+    },
+    {
+      "id": 122,
+      "name": "Ferrari 488 GT3 Evo 2020"
+    },
+    {
+      "id": 85,
+      "name": "Ford GT GT3"
+    },
+    {
+      "id": 169,
+      "name": "Ford Mustang GT3"
+    },
+    {
+      "id": 190,
+      "name": "Ford Mustang GT4"
+    },
+    {
+      "id": 125,
+      "name": "Honda Civic Type R TCR"
+    },
+    {
+      "id": 124,
+      "name": "Hyundai Elantra N TCR"
+    },
+    {
+      "id": 131,
+      "name": "Hyundai Veloster N TCR"
+    },
+    {
+      "id": 34,
+      "name": "Lamborghini Hurac\u00e1n GT3 EVO"
+    },
+    {
+      "id": 150,
+      "name": "Ligier JS P320"
+    },
+    {
+      "id": 81,
+      "name": "McLaren 570S GT4"
+    },
+    {
+      "id": 175,
+      "name": "McLaren 720S GT3 EVO"
+    },
+    {
+      "id": 39,
+      "name": "McLaren MP4-12C GT3"
+    },
+    {
+      "id": 24,
+      "name": "Mercedes-AMG GT3"
+    },
+    {
+      "id": 135,
+      "name": "Mercedes-AMG GT3 2020"
+    },
+    {
+      "id": 136,
+      "name": "Mercedes-AMG GT4"
+    },
+    {
+      "id": 27,
+      "name": "Nissan GTP ZX-T"
+    },
+    {
+      "id": 1,
+      "name": "Porsche 718 Cayman GT4 Clubsport MR"
+    },
+    {
+      "id": 194,
+      "name": "Porsche 911 Cup (992.2)"
+    },
+    {
+      "id": 11,
+      "name": "Porsche 911 GT3 Cup (991)"
+    },
+    {
+      "id": 121,
+      "name": "Porsche 911 GT3 Cup (992.1)"
+    },
+    {
+      "id": 108,
+      "name": "Porsche 911 GT3 R"
+    },
+    {
+      "id": 152,
+      "name": "Porsche 911 GT3 R (992)"
+    },
+    {
+      "id": 156,
+      "name": "Porsche 963 GTP"
+    }
+  ]
+}
