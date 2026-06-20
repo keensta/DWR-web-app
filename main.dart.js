@@ -74986,7 +74986,7 @@ if(b.k1==null){A.bw(n.b).bm(0,A.bg("No current plan is loaded.",!0,!1,"Garage61 
 s=1
 break}if(b.RG==null||b.ry==null){A.bw(n.b).bm(0,A.bg("Please select both a track and a car.",!0,!1,"Garage61 sync unavailable"))
 s=1
-break}if(b.y2){A.bw(n.b).bm(0,A.bg("Please head to driver profile to link Garage61.",!1,!0,"Garage61 Not Linked"))
+break}if(!b.y2){A.bw(n.b).bm(0,A.bg("Please head to driver profile to link Garage61.",!1,!0,"Garage61 Not Linked"))
 s=1
 break}p=4
 i={}
