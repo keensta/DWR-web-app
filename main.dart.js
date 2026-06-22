@@ -74243,14 +74243,17 @@ $S:532}
 A.ajy.prototype={
 B(a){var s,r,q,p,o,n=this,m=null,l=A.bZ(a,!0,t.G4),k=l.a
 k===$&&A.b()
-if(!k.Q)return A.cy(new A.a9(B.bO,A.db(3,3,A.a1(A.a([A.br(B.a4e,B.S.q(0.4),m,64),B.cq,A.M("Private Event",m,m,m,m,B.avz,B.aC,m,m),B.a9,A.M("This is not a public event. Guest registration is closed, and only registered drivers can sign up.",m,m,m,m,B.ayb,B.aC,m,m),B.b2,new A.ap(1/0,m,A.b3(3,3,m,m,A.M("Return to Login",m,m,m,m,m,m,m,m),B.d,!0,0.2,0.01,m,m,new A.bhg(a),m),m)],t.p),B.k,B.h,B.x),m,0.2,m,20,400),m),m,m)
+if(!k.Q&&n.d)return A.cy(new A.a9(B.bO,A.db(3,3,A.a1(A.a([A.br(B.a4e,B.S.q(0.4),m,64),B.cq,A.M("Private Event",m,m,m,m,B.avz,B.aC,m,m),B.a9,A.M("This is not a public event. Guest registration is closed, and only registered drivers can sign up.",m,m,m,m,B.ayb,B.aC,m,m),B.b2,new A.ap(1/0,m,A.b3(3,3,m,m,A.M("Return to Login",m,m,m,m,m,m,m,m),B.d,!0,0.2,0.01,m,m,new A.bhg(a),m),m)],t.p),B.k,B.h,B.x),m,0.2,m,20,400),m),m,m)
 s=A.dL(m,m,m,B.hv,m,m,n.e,m,m,m,m,m)
 r=k.cx
 q=t.p
 r=A.a6(A.a([s,B.bt,A.ak(A.M("Register for "+A.k(r==null?m:r.b),m,m,B.a4,m,B.h1,m,m,m),1,m)],q),B.k,B.h,B.i,0,m)
 s=l.d
-p=A.a([n.d?n.au4(a,l):n.aud(a,l),B.cq],q)
-if(!k.y)B.b.L(p,A.a([n.ats(a,l),B.ac,n.auk(a),B.dN,n.aui(a,l),B.ao4],q))
+p=A.a([n.d&&l.at==null?n.au4(a,l):n.aud(a,l),B.cq],q)
+if(!k.y)B.b.L(p,A.a([n.ats(a,l),B.ac],q))
+p.push(n.auk(a))
+p.push(B.dN)
+if(!k.y)B.b.L(p,A.a([n.aui(a,l),B.ao4],q))
 p.push(new A.a9(B.dZ,A.M("Car Preferences",m,m,m,m,B.d2,m,m,m),m))
 p.push(new A.K9(l.ajF(),l.gakY(),m))
 p.push(B.at0)
